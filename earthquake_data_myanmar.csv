@@ -1,0 +1,558 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-12-26T21:48:15.074Z,27.3034,96.9396,10.0,4.5,mb,,113.0,3.876,0.66,us,us6000d65h,2021-03-06T23:19:18.040Z,"93 km SSE of Hayuliang, India",earthquake,10.2,1.9,0.139,15.0,reviewed,us,us
+2020-12-26T14:19:09.417Z,16.0246,92.9758,10.0,4.5,mb,,64.0,4.348,1.24,us,us6000d659,2021-03-06T23:19:10.040Z,"205 km WSW of Pathein, Myanmar",earthquake,4.7,1.8,0.163,11.0,reviewed,us,us
+2020-12-24T15:13:50.935Z,25.4629,96.6657,10.0,4.4,mb,,46.0,2.475,1.08,us,us6000d5su,2021-03-06T23:18:20.040Z,"74 km W of Myitkyina, Myanmar",earthquake,3.3,1.9,0.079,58.0,reviewed,us,us
+2020-12-24T12:47:17.072Z,25.6158,96.657,10.0,4.3,mb,,121.0,2.546,1.34,us,us6000d2jw,2021-03-06T23:18:19.040Z,"67 km SSW of Sarupathar, India",earthquake,5.1,1.9,0.133,16.0,reviewed,us,us
+2020-12-24T08:09:48.075Z,25.6397,96.6534,10.0,4.8,mb,,45.0,2.556,0.74,us,us6000d2hz,2021-03-06T23:18:15.040Z,"64 km SSW of Sarupathar, India",earthquake,7.2,1.9,0.066,74.0,reviewed,us,us
+2020-12-23T11:06:53.791Z,27.4003,97.0395,49.94,4.2,mb,,75.0,4.007,0.41,us,us6000d5s2,2021-03-06T23:17:56.040Z,"89 km SSE of Hayuliang, India",earthquake,7.7,7.4,0.136,15.0,reviewed,us,us
+2020-12-19T06:22:47.064Z,22.0856,94.6654,112.46,4.1,mb,,173.0,2.16,0.73,us,us6000d26s,2021-02-27T23:23:55.040Z,"48 km W of Monywa, Myanmar",earthquake,12.5,3.7,0.151,12.0,reviewed,us,us
+2020-12-12T04:14:10.866Z,23.0317,94.2086,76.92,4.2,mb,,128.0,1.195,0.95,us,us7000crma,2021-02-20T16:12:27.040Z,"55 km ENE of Falam, Myanmar",earthquake,5.4,8.1,0.167,10.0,reviewed,us,us
+2020-12-08T05:14:35.415Z,22.2089,94.3877,90.82,5.1,mb,,25.0,0.847,0.6,us,us7000cp2v,2021-02-12T22:40:22.040Z,"77 km W of Monywa, Myanmar",earthquake,4.4,5.1,0.045,161.0,reviewed,us,us
+2020-12-06T14:39:13.789Z,21.8358,93.4233,52.56,4.6,mb,,141.0,0.818,0.33,us,us7000cpsj,2021-02-12T22:40:56.040Z,"85 km SSE of Saiha, India",earthquake,5.5,7.4,0.146,16.0,reviewed,us,us
+2020-12-01T13:39:33.505Z,25.0149,99.3985,10.0,4.5,mb,,40.0,3.716,0.57,us,us7000cn1e,2021-02-06T18:29:53.040Z,"103 km SW of Dali, China",earthquake,3.7,1.9,0.131,19.0,reviewed,us,us
+2020-11-22T03:29:20.994Z,26.2945,94.7728,60.63,4.3,mb,,99.0,2.1,0.94,us,us6000crdq,2021-02-03T17:49:58.040Z,"5 km WNW of Tuensang, India",earthquake,8.1,6.8,0.154,12.0,reviewed,us,us
+2020-11-21T04:49:33.478Z,24.9595,94.9967,10.0,4.5,mb,,103.0,0.964,1.05,us,us6000cr52,2021-02-03T17:50:21.040Z,"92 km SSE of Phek, India",earthquake,5.2,1.8,0.097,31.0,reviewed,us,us
+2020-11-14T08:50:26.186Z,23.6092,94.6188,103.66,5.0,mww,,37.0,0.682,0.89,us,us7000cevs,2021-01-27T17:29:13.040Z,"22 km E of Mawlaik, Myanmar",earthquake,6.9,6.7,0.086,13.0,reviewed,us,us
+2020-11-10T04:45:39.687Z,22.7939,94.4538,104.48,4.5,mb,,135.0,0.803,0.55,us,us7000ceh0,2021-01-23T22:25:46.040Z,"80 km E of Falam, Myanmar",earthquake,5.8,3.5,0.15,13.0,reviewed,us,us
+2020-11-08T09:32:42.842Z,24.2021,94.1977,65.34,4.3,mb,,65.0,0.097,0.43,us,us7000cduh,2021-01-23T22:25:44.040Z,"39 km SE of Kakching, India",earthquake,6.5,3.9,0.177,9.0,reviewed,us,us
+2020-11-06T03:06:45.517Z,25.1948,96.4551,10.0,4.3,mb,,117.0,2.182,0.79,us,us7000cdah,2021-01-23T22:25:43.040Z,Myanmar,earthquake,9.2,1.9,0.138,15.0,reviewed,us,us
+2020-10-24T03:21:04.311Z,23.1224,92.2965,44.64,4.4,mb,,95.0,0.748,0.78,us,us6000ccf2,2022-08-09T01:10:31.434Z,"33 km E of Khagrachhari, Bangladesh",earthquake,3.6,6.6,0.127,18.0,reviewed,us,us
+2020-10-20T19:55:49.959Z,27.2257,96.1444,57.98,4.0,mb,,45.0,3.415,0.74,us,us6000caa9,2020-12-29T23:08:05.040Z,"47 km E of Margherita, India",earthquake,5.1,8.1,0.098,33.0,reviewed,us,us
+2020-10-13T01:36:21.205Z,23.1644,94.1126,71.72,4.5,mb,,85.0,0.702,0.45,us,us6000c8t9,2020-12-19T17:22:55.040Z,"52 km ENE of Falam, Myanmar",earthquake,3.3,7.3,0.136,16.0,reviewed,us,us
+2020-10-10T17:38:00.765Z,24.6661,93.4997,53.0,5.5,mww,,22.0,0.849,0.65,us,us6000c7ce,2020-12-19T17:22:44.040Z,"33 km WNW of Moir?ng, India",earthquake,4.5,1.9,0.083,14.0,reviewed,us,us
+2020-10-06T22:02:54.378Z,25.643,94.7776,61.51,4.6,mb,,54.0,1.472,0.84,us,us6000c688,2020-12-12T22:28:43.040Z,"27 km E of Phek, India",earthquake,3.7,6.3,0.062,78.0,reviewed,us,us
+2020-10-05T12:08:40.009Z,23.5477,94.4335,74.11,4.1,mb,,130.0,0.689,1.02,us,us6000c725,2020-12-12T22:28:49.040Z,"10 km SSE of Mawlaik, Myanmar",earthquake,6.4,3.3,0.234,6.0,reviewed,us,us
+2020-10-04T16:00:02.846Z,20.6448,94.4032,78.19,4.3,mb,,166.0,2.123,1.05,us,us6000c5hh,2020-12-12T22:28:39.040Z,"51 km WSW of Chauk, Myanmar",earthquake,7.7,8.2,0.142,14.0,reviewed,us,us
+2020-09-20T01:59:05.610Z,22.9861,93.7677,53.56,5.1,mb,,38.0,0.375,0.81,us,us7000bqcm,2020-11-28T21:31:56.040Z,"12 km NE of Falam, Myanmar",earthquake,4.8,4.1,0.039,208.0,reviewed,us,us
+2020-09-18T17:53:39.631Z,23.3836,94.5477,90.39,4.4,mb,,86.0,2.767,0.46,us,us6000c04a,2020-11-28T21:31:51.040Z,"32 km SSE of Mawlaik, Myanmar",earthquake,6.9,7.3,0.117,24.0,reviewed,us,us
+2020-09-10T16:54:55.134Z,23.9905,94.8835,127.25,4.3,mb,,73.0,0.583,0.43,us,us7000bl8x,2020-11-21T20:10:35.040Z,"62 km NE of Mawlaik, Myanmar",earthquake,5.2,6.5,0.188,9.0,reviewed,us,us
+2020-09-01T06:39:06.264Z,22.278,95.016,76.13,4.3,mb,,151.0,1.359,0.82,us,us7000bhu5,2020-11-07T18:48:52.040Z,"22 km NNW of Monywa, Myanmar",earthquake,9.6,4.6,0.16,11.0,reviewed,us,us
+2020-08-31T21:09:33.636Z,24.8788,95.2425,123.46,4.9,mb,,33.0,1.074,0.77,us,us7000bfgi,2020-11-07T18:48:40.040Z,"114 km SE of Phek, India",earthquake,5.9,3.5,0.052,117.0,reviewed,us,us
+2020-08-30T01:47:38.842Z,23.41,92.0138,37.66,4.9,mb,,78.0,0.805,0.82,us,us7000bh52,2020-11-07T18:48:49.040Z,"33 km N of Khagrachhari, Bangladesh",earthquake,4.2,6.1,0.23,8.0,reviewed,us,us
+2020-08-27T15:50:10.966Z,18.2351,95.1077,33.21,4.3,mb,,80.0,3.106,0.44,us,us7000bggc,2020-11-07T18:48:47.040Z,"23 km WSW of Myanaung, Myanmar",earthquake,8.0,1.4,0.133,18.0,reviewed,us,us
+2020-08-27T13:17:20.608Z,23.0656,93.2324,10.0,4.5,mb,,164.0,0.54,1.12,us,us7000bdpj,2020-11-07T18:48:29.040Z,"18 km ESE of North Vanlaiphai, India",earthquake,5.5,1.9,0.139,15.0,reviewed,us,us
+2020-08-27T12:07:15.628Z,23.1636,93.3258,10.0,5.3,mww,,23.0,0.577,1.04,us,us7000bdnu,2020-11-07T18:48:29.040Z,"26 km E of North Vanlaiphai, India",earthquake,6.3,1.8,0.08,15.0,reviewed,us,us
+2020-08-24T13:05:49.672Z,25.2722,97.6027,10.0,4.3,mb,,75.0,3.176,0.72,us,us6000bjqh,2020-10-31T19:06:22.040Z,"24 km ESE of Myitkyina, Myanmar",earthquake,3.2,1.9,0.105,26.0,reviewed,us,us
+2020-08-23T13:18:15.229Z,26.0998,95.5832,86.9,4.6,mb,,57.0,2.195,0.6,us,us6000bje2,2020-10-31T19:06:20.040Z,"78 km ESE of Tuensang, India",earthquake,7.4,6.2,0.079,48.0,reviewed,us,us
+2020-08-22T22:56:36.497Z,22.5997,94.5465,102.78,4.2,mb,,138.0,0.876,0.63,us,us7000be94,2020-10-31T19:06:34.040Z,"81 km NW of Monywa, Myanmar",earthquake,6.5,7.9,0.159,11.0,reviewed,us,us
+2020-08-14T01:08:08.090Z,23.1226,93.2923,10.0,4.2,mb,,105.0,0.555,1.18,us,us6000bei5,2020-10-24T20:08:50.040Z,"23 km E of North Vanlaiphai, India",earthquake,3.3,1.9,0.132,16.0,reviewed,us,us
+2020-08-11T13:57:53.226Z,24.2129,93.9507,59.16,4.3,mb,,47.0,0.319,1.07,us,us6000bcmi,2020-10-21T22:04:09.040Z,"31 km ESE of Chur?ch?ndpur, India",earthquake,4.3,5.8,0.089,36.0,reviewed,us,us
+2020-08-07T17:36:20.411Z,24.5305,94.8553,103.06,4.3,mb,,147.0,0.588,0.84,us,us6000baqp,2020-10-21T22:03:56.040Z,"80 km E of W?ngjing, India",earthquake,9.3,6.6,0.238,5.0,reviewed,us,us
+2020-07-30T19:28:38.976Z,24.9912,99.2531,10.0,4.3,mb,,117.0,3.701,1.29,us,us6000b9qj,2020-10-10T17:11:16.040Z,"116 km SW of Dali, China",earthquake,6.9,1.8,0.178,9.0,reviewed,us,us
+2020-07-28T14:38:49.984Z,23.2575,93.3418,10.0,4.8,mb,,67.0,0.657,0.73,us,us6000b5cc,2020-10-03T17:32:28.040Z,"25 km ESE of Khawhai, India",earthquake,4.1,1.4,0.056,97.0,reviewed,us,us
+2020-07-24T05:45:56.764Z,23.069,93.3699,10.0,4.1,mb,,54.0,0.474,0.89,us,us6000b66q,2020-10-03T17:32:31.040Z,"31 km ESE of North Vanlaiphai, India",earthquake,3.9,1.9,0.158,11.0,reviewed,us,us
+2020-07-23T07:54:34.388Z,27.5982,99.9835,10.0,4.0,mb,,89.0,9.148,0.67,us,us6000b65d,2020-10-03T17:32:31.040Z,"37 km SE of Shangri-La, China",earthquake,11.3,1.9,0.157,11.0,reviewed,us,us
+2020-07-22T04:45:33.009Z,22.3603,99.8653,10.0,4.5,mb,,95.0,1.099,0.67,us,us6000b5wz,2020-10-03T17:32:30.040Z,"98 km WNW of Jinghong, China",earthquake,6.3,1.9,0.14,15.0,reviewed,us,us
+2020-07-18T18:38:20.596Z,21.7851,97.0208,11.66,4.5,mb,,42.0,1.011,0.83,us,us7000aqyh,2020-09-26T16:58:36.040Z,"64 km ESE of Pyin Oo Lwin, Myanmar",earthquake,4.9,4.0,0.054,110.0,reviewed,us,us
+2020-07-17T22:55:38.710Z,24.6057,92.3782,39.89,4.3,mb,,64.0,1.067,0.61,us,us6000b2u6,2020-09-26T16:58:24.040Z,"20 km WSW of Hail?k?ndi, India",earthquake,5.4,6.9,0.07,63.0,reviewed,us,us
+2020-07-17T16:33:53.474Z,23.1162,93.3092,10.0,5.1,mww,,63.0,0.542,0.86,us,us7000aqg3,2020-09-26T16:58:34.040Z,"25 km E of North Vanlaiphai, India",earthquake,5.4,1.8,0.098,10.0,reviewed,us,us
+2020-07-17T10:26:38.892Z,23.1172,93.3785,10.0,4.4,mb,,91.0,0.514,0.41,us,us7000aq8x,2020-09-26T16:58:34.040Z,"32 km E of North Vanlaiphai, India",earthquake,4.2,1.9,0.087,38.0,reviewed,us,us
+2020-07-16T02:27:38.675Z,24.6068,92.3957,39.62,4.4,mb,,69.0,1.073,0.48,us,us6000b54f,2020-09-26T16:58:27.040Z,"18 km WSW of Hail?k?ndi, India",earthquake,5.6,7.4,0.144,14.0,reviewed,us,us
+2020-07-16T01:21:55.852Z,24.606,94.8877,30.68,4.4,mb,,64.0,0.653,0.52,us,us6000b2q0,2020-09-26T16:58:23.040Z,"83 km E of W?ngjing, India",earthquake,6.1,6.5,0.149,13.0,reviewed,us,us
+2020-07-14T09:27:11.984Z,23.3677,94.3314,85.31,4.2,mb,,94.0,0.858,0.54,us,us7000ash7,2020-09-19T20:58:34.040Z,"31 km SSW of Mawlaik, Myanmar",earthquake,6.4,1.5,0.158,11.0,reviewed,us,us
+2020-07-13T17:34:01.030Z,25.1767,99.5735,10.0,4.0,mb,,75.0,3.873,0.72,us,us7000arpk,2020-09-19T20:58:33.040Z,"78 km SW of Dali, China",earthquake,8.2,1.9,0.212,6.0,reviewed,us,us
+2020-07-09T08:58:12.692Z,23.0831,93.3665,10.0,4.6,mb,,40.0,0.488,0.43,us,us7000akmn,2020-09-19T20:58:00.040Z,"31 km E of North Vanlaiphai, India",earthquake,5.2,1.9,0.079,49.0,reviewed,us,us
+2020-07-05T11:56:34.519Z,23.1732,93.2967,10.0,4.8,mb,,96.0,0.597,0.71,us,us7000ai9b,2020-09-11T22:14:14.040Z,"24 km E of North Vanlaiphai, India",earthquake,7.2,1.9,0.092,36.0,reviewed,us,us
+2020-07-03T09:05:43.564Z,23.2815,93.3716,10.0,4.6,mb,,60.0,0.67,0.78,us,us7000ah74,2020-09-11T22:13:59.040Z,"27 km ESE of Khawhai, India",earthquake,6.4,1.8,0.058,89.0,reviewed,us,us
+2020-06-28T05:54:36.251Z,24.6766,94.5933,57.96,4.4,mb,,68.0,0.519,0.86,us,us7000adgj,2020-09-05T17:35:28.040Z,"54 km E of W?ngjing, India",earthquake,7.4,3.3,0.099,29.0,reviewed,us,us
+2020-06-26T16:05:45.280Z,20.8724,94.2917,82.2,4.5,mb,,126.0,1.875,0.78,us,us7000accq,2020-09-05T17:35:23.040Z,"54 km W of Chauk, Myanmar",earthquake,7.9,6.1,0.078,50.0,reviewed,us,us
+2020-06-24T19:44:43.473Z,23.1939,93.2827,4.24,4.8,mb,,67.0,0.622,0.97,us,us7000aabs,2020-09-05T17:35:16.040Z,"23 km ENE of North Vanlaiphai, India",earthquake,3.3,4.6,0.081,47.0,reviewed,us,us
+2020-06-24T02:32:33.683Z,23.206,93.2628,4.58,4.5,mb,,74.0,0.641,0.53,us,us6000ahkj,2020-09-05T17:35:14.040Z,"21 km ENE of North Vanlaiphai, India",earthquake,5.5,5.3,0.09,36.0,reviewed,us,us
+2020-06-21T22:40:52.633Z,23.1449,93.2856,10.84,5.6,mww,,23.0,0.578,0.64,us,us6000ag4u,2022-03-10T05:24:29.517Z,"22 km E of North Vanlaiphai, India",earthquake,4.0,3.0,0.068,21.0,reviewed,us,us
+2020-06-21T10:46:25.514Z,23.9075,93.1135,41.6,4.9,mww,,49.0,1.131,0.54,us,us6000afvf,2020-08-30T00:00:59.040Z,"22 km ESE of Darlawn, India",earthquake,6.8,6.6,0.098,10.0,reviewed,us,us
+2020-06-21T10:10:13.665Z,21.9396,94.9061,122.4,4.2,mb,,88.0,1.397,0.9,us,us7000ac71,2020-08-30T00:01:21.040Z,"30 km SW of Monywa, Myanmar",earthquake,7.8,3.7,0.105,25.0,reviewed,us,us
+2020-06-18T13:59:20.228Z,22.4515,94.43,87.37,4.8,mb,,123.0,0.79,1.07,us,us6000ae6t,2020-08-30T00:00:45.040Z,"82 km WNW of Monywa, Myanmar",earthquake,6.2,6.8,0.089,39.0,reviewed,us,us
+2020-06-16T11:15:51.620Z,18.954,94.3005,35.0,4.8,mb,,39.0,3.142,0.8,us,us6000acrw,2020-08-22T19:14:56.040Z,"98 km W of Pyay, Myanmar",earthquake,4.5,2.0,0.042,177.0,reviewed,us,us
+2020-06-14T05:35:31.831Z,23.2948,93.7812,62.31,4.8,mb,,55.0,1.045,0.57,us,us6000abkd,2020-08-22T19:14:50.040Z,"43 km NNE of Falam, Myanmar",earthquake,7.2,6.3,0.04,189.0,reviewed,us,us
+2020-06-14T02:39:43.149Z,26.6545,97.0594,10.0,4.8,mb,,59.0,3.471,0.76,us,us6000abjj,2020-08-22T19:14:50.040Z,"55 km NNE of Sarupathar, India",earthquake,4.3,1.8,0.042,176.0,reviewed,us,us
+2020-06-08T12:21:20.957Z,22.7767,94.6,100.69,4.2,mb,,144.0,0.933,0.81,us,us6000aawn,2020-08-18T17:59:06.040Z,"92 km NW of Monywa, Myanmar",earthquake,4.2,8.9,0.176,9.0,reviewed,us,us
+2020-06-02T01:44:10.755Z,23.7804,98.3563,14.39,4.6,mb,,107.0,2.732,0.37,us,us6000a42w,2020-08-15T20:20:03.040Z,"112 km NNE of Lashio, Myanmar",earthquake,9.1,4.5,0.111,24.0,reviewed,us,us
+2020-05-25T14:42:17.395Z,24.3856,93.9197,57.89,5.1,mww,,25.0,0.38,0.51,us,us70009q28,2020-10-10T17:59:49.077Z,"13 km SSW of Kakching, India",earthquake,5.8,4.5,0.093,11.0,reviewed,us,us
+2020-05-18T07:02:22.593Z,16.8761,94.6443,10.0,4.0,mb,,128.0,4.389,0.63,us,us70009nhw,2020-08-02T00:28:58.040Z,"14 km NW of Pathein, Myanmar",earthquake,10.0,1.9,0.259,5.0,reviewed,us,us
+2020-05-17T04:32:15.434Z,20.5275,96.0814,10.0,4.6,mb,,93.0,0.923,0.97,us,us70009ilx,2020-08-02T00:29:40.040Z,"12 km NNW of Yamethin, Myanmar",earthquake,6.2,1.8,0.11,25.0,reviewed,us,us
+2020-05-11T22:39:35.471Z,24.8084,94.1112,63.54,4.6,mb,,100.0,0.601,0.72,us,us70009edv,2020-07-29T22:14:34.040Z,"15 km NNE of Yairipok, India",earthquake,4.0,6.0,0.071,60.0,reviewed,us,us
+2020-05-06T11:26:52.383Z,16.6415,94.4169,10.0,4.1,mb,,145.0,4.68,0.33,us,us70009fei,2020-07-29T22:14:10.040Z,"36 km WSW of Pathein, Myanmar",earthquake,4.9,2.0,0.166,10.0,reviewed,us,us
+2020-05-05T22:15:04.082Z,20.9941,94.4334,83.34,4.1,mb,,113.0,1.813,0.7,us,us70009aqe,2020-07-18T21:57:40.040Z,"41 km WNW of Chauk, Myanmar",earthquake,7.0,8.8,0.13,16.0,reviewed,us,us
+2020-04-24T05:15:21.183Z,24.0324,95.8305,10.0,4.6,mb,,68.0,1.411,0.56,us,us60009b6d,2020-07-11T22:18:56.040Z,"141 km NNW of Mogok, Myanmar",earthquake,5.8,1.9,0.098,32.0,reviewed,us,us
+2020-04-20T05:19:15.437Z,17.3704,95.1694,64.38,4.2,mb,,106.0,3.751,0.4,us,us60009bkn,2020-07-09T14:31:34.040Z,"43 km SW of Hinthada, Myanmar",earthquake,5.1,9.7,0.159,11.0,reviewed,us,us
+2020-04-16T11:53:01.650Z,22.7356,94.0722,10.0,4.5,mb,,98.0,0.446,0.96,us,us60009ap6,2020-07-09T14:31:12.040Z,"45 km ESE of Falam, Myanmar",earthquake,4.9,1.9,0.136,16.0,reviewed,us,us
+2020-04-16T11:45:23.960Z,22.8004,94.0292,10.0,5.9,mww,,25.0,0.426,0.93,us,us70008xhp,2022-03-10T05:13:15.512Z,"38 km ESE of Falam, Myanmar",earthquake,6.3,1.7,0.055,32.0,reviewed,us,us
+2020-04-15T19:36:20.915Z,20.5448,93.6698,10.0,4.2,mb,,147.0,2.088,0.69,us,us70008x0g,2020-07-09T14:31:08.040Z,"91 km ENE of Sittwe, Myanmar",earthquake,5.1,1.9,0.176,9.0,reviewed,us,us
+2020-04-05T17:50:30.477Z,26.4085,92.7724,46.31,4.5,mb,,80.0,1.176,0.88,us,us70008pdi,2020-06-21T00:55:06.040Z,"25 km S of Tezpur, India",earthquake,8.0,7.1,0.078,48.0,reviewed,us,us
+2020-04-02T17:35:31.963Z,26.1416,97.037,10.0,4.2,mb,,121.0,4.703,1.18,us,us70008rid,2020-06-21T00:54:43.040Z,"23 km ESE of Sarupathar, India",earthquake,10.7,1.9,0.115,21.0,reviewed,us,us
+2020-03-23T12:21:27.031Z,25.1038,96.351,10.0,4.4,mb,,75.0,2.058,0.73,us,us70008hf0,2020-06-06T20:54:10.040Z,"109 km WSW of Myitkyina, Myanmar",earthquake,7.8,1.9,0.126,18.0,reviewed,us,us
+2020-03-23T08:08:12.704Z,25.0857,95.0671,101.49,4.5,mb,,61.0,1.101,0.54,us,us70008hem,2020-06-06T20:54:09.040Z,"86 km SE of Phek, India",earthquake,9.4,8.5,0.118,21.0,reviewed,us,us
+2020-03-07T04:05:43.016Z,23.2305,96.1055,10.0,4.5,mb,,97.0,1.93,1.04,us,us60008e97,2020-05-23T22:03:16.040Z,"54 km NW of Mogok, Myanmar",earthquake,2.7,1.9,0.124,19.0,reviewed,us,us
+2020-03-05T06:59:54.541Z,25.8362,96.7751,10.0,4.5,mb,,65.0,2.756,0.74,us,us600089zy,2020-05-23T22:03:14.040Z,"41 km S of Sarupathar, India",earthquake,4.3,1.9,0.104,27.0,reviewed,us,us
+2020-03-04T00:20:03.152Z,24.4202,96.1023,10.0,4.8,mb,,72.0,1.654,0.94,us,us60008937,2020-05-23T22:03:26.040Z,"116 km W of Bhamo, Myanmar",earthquake,6.4,1.8,0.051,121.0,reviewed,us,us
+2020-03-03T09:18:50.445Z,17.6247,94.3051,10.0,4.9,mb,,59.0,4.053,0.79,us,us600088jb,2020-05-19T22:14:22.040Z,"104 km NNW of Pathein, Myanmar",earthquake,8.9,1.8,0.057,95.0,reviewed,us,us
+2020-02-29T20:05:26.893Z,26.4904,92.1052,45.39,4.2,mb,,95.0,0.946,0.6,us,us60008735,2020-05-19T22:14:13.040Z,"5 km SW of Kh?rupatia, India",earthquake,5.3,7.9,0.083,41.0,reviewed,us,us
+2020-02-18T01:55:37.405Z,19.1257,96.3104,10.0,4.0,mb,,129.0,1.77,0.79,us,us70007vwt,2020-05-02T22:10:35.040Z,"24 km NNW of Taungoo, Myanmar",earthquake,6.4,2.0,0.232,5.0,reviewed,us,us
+2020-02-15T08:12:18.454Z,22.5718,93.5958,47.14,4.2,mb,,96.0,0.07,0.72,us,us70007u6g,2020-05-02T22:10:30.040Z,"8 km S of Hakha, Myanmar",earthquake,7.9,5.5,0.136,15.0,reviewed,us,us
+2020-02-11T17:52:42.268Z,17.6453,94.317,10.0,4.6,mb,,57.0,4.03,0.76,us,us70007n83,2020-04-25T22:19:25.040Z,"105 km NNW of Pathein, Myanmar",earthquake,4.6,1.8,0.088,45.0,reviewed,us,us
+2020-02-09T19:37:29.389Z,23.05,94.8537,134.31,4.2,mb,,69.0,1.226,1.0,us,us70007m6w,2020-04-25T22:19:01.040Z,"80 km SE of Mawlaik, Myanmar",earthquake,7.7,9.1,0.124,18.0,reviewed,us,us
+2020-02-09T19:10:46.707Z,20.5392,93.8715,51.0,4.6,mb,,63.0,2.107,1.05,us,us70007m6d,2020-04-25T22:19:00.040Z,"104 km W of Yenangyaung, Myanmar",earthquake,6.8,6.1,0.088,39.0,reviewed,us,us
+2020-02-04T18:26:20.869Z,21.7325,94.6242,90.29,4.1,mb,,118.0,1.312,1.0,us,us70007pey,2020-04-18T22:10:36.040Z,"64 km NW of Pakokku, Myanmar",earthquake,6.9,7.2,0.105,31.0,reviewed,us,us
+2020-02-04T14:10:23.587Z,19.7608,95.8596,10.0,4.4,mb,,122.0,1.49,0.6,us,us60007pe6,2022-08-08T18:18:19.376Z,"28 km W of Nay Pyi Taw, Myanmar",earthquake,8.3,1.9,0.112,23.0,reviewed,us,us
+2020-01-31T10:55:20.847Z,24.815,98.0962,10.0,4.4,mb,,53.0,3.506,0.57,us,us60007l7u,2020-04-18T22:10:01.040Z,"94 km SE of Myitkyina, Myanmar",earthquake,7.9,1.9,0.123,19.0,reviewed,us,us
+2020-01-29T13:43:05.740Z,24.4383,94.9928,115.32,4.3,mb,,70.0,0.664,0.97,us,us70007kw7,2020-04-18T22:10:28.040Z,"95 km E of W?ngjing, India",earthquake,6.1,8.3,0.148,13.0,reviewed,us,us
+2020-01-23T09:48:04.838Z,20.5189,93.4447,22.56,4.9,mww,,40.0,2.117,1.05,us,us60007dqr,2020-04-11T18:20:40.040Z,"70 km NE of Sittwe, Myanmar",earthquake,3.5,3.8,0.093,11.0,reviewed,us,us
+2020-01-14T01:24:58.643Z,23.6781,94.5148,94.42,4.3,mb,,119.0,0.583,0.98,us,us70006zgm,2020-04-02T21:28:28.040Z,"11 km ENE of Mawlaik, Myanmar",earthquake,7.0,6.1,0.137,15.0,reviewed,us,us
+2021-12-27T20:13:18.353Z,22.9337,94.1653,40.41,4.7,mb,,72.0,2.341,0.49,us,us6000gfp6,2022-03-05T23:10:46.040Z,"50 km E of Falam, Myanmar",earthquake,6.4,5.8,0.057,99.0,reviewed,us,us
+2021-12-24T12:47:30.331Z,18.4813,96.2729,14.42,4.2,mb,,155.0,1.296,0.43,us,us6000gf1u,2022-03-05T23:10:36.040Z,"17 km W of Pyu, Myanmar",earthquake,7.4,4.5,0.2,7.0,reviewed,us,us
+2021-12-21T05:04:14.782Z,27.6752,96.9853,43.61,4.5,mb,,44.0,4.196,0.53,us,us6000ge34,2022-03-01T16:38:47.040Z,"61 km SE of Hayuliang, India",earthquake,4.5,8.6,0.099,30.0,reviewed,us,us
+2021-12-16T20:13:20.741Z,23.1346,93.8775,65.95,4.5,mb,,77.0,2.11,0.58,us,us6000gcwh,2022-02-24T21:02:03.040Z,"31 km NE of Falam, Myanmar",earthquake,5.4,5.7,0.077,50.0,reviewed,us,us
+2021-12-12T12:08:25.375Z,23.6643,94.7467,119.01,4.5,mb,,63.0,3.241,0.85,us,us6000gbmv,2022-02-24T21:00:14.040Z,"34 km E of Mawlaik, Myanmar",earthquake,6.5,7.0,0.07,60.0,reviewed,us,us
+2021-12-10T04:14:54.431Z,25.5067,95.4612,65.73,4.2,mb,,109.0,1.651,1.0,us,us6000gb2m,2022-02-24T20:59:33.040Z,"98 km E of Phek, India",earthquake,10.5,16.5,0.153,12.0,reviewed,us,us
+2021-12-06T00:25:39.792Z,23.4414,96.1089,10.0,5.0,mb,,46.0,2.794,0.8,us,us6000g9d4,2022-02-12T23:06:08.040Z,"71 km NW of Mogok, Myanmar",earthquake,6.7,1.8,0.068,70.0,reviewed,us,us
+2021-11-29T21:22:06.678Z,20.5401,94.0737,62.35,4.2,mb,,79.0,2.081,1.0,us,us6000g7qn,2022-02-05T23:03:26.040Z,"83 km W of Yenangyaung, Myanmar",earthquake,7.6,7.6,0.118,20.0,reviewed,us,us
+2021-11-29T13:24:26.617Z,22.8125,93.4533,55.11,4.4,mb,,72.0,1.677,0.47,us,us6000g8r2,2022-02-05T23:03:55.040Z,"24 km NW of Hakha, Myanmar",earthquake,7.4,5.6,0.115,24.0,reviewed,us,us
+2021-11-28T17:21:20.764Z,24.2296,94.5821,71.92,4.4,mb,,74.0,4.123,1.17,us,us7000fxsg,2022-02-05T23:04:28.040Z,"65 km SE of W?ngjing, India",earthquake,9.5,7.5,0.108,25.0,reviewed,us,us
+2021-11-28T17:02:20.837Z,27.0354,96.5311,10.0,4.4,mb,,73.0,6.255,1.15,us,us7000fxsb,2022-02-05T23:04:28.040Z,"89 km ESE of Margherita, India",earthquake,8.5,1.9,0.105,26.0,reviewed,us,us
+2021-11-28T02:18:54.724Z,23.5533,94.0667,69.24,4.3,mb,,97.0,0.706,0.96,us,us6000g8ge,2022-02-05T23:03:50.040Z,"35 km WSW of Mawlaik, Myanmar",earthquake,6.4,8.4,0.266,6.0,reviewed,us,us
+2021-11-28T01:32:51.010Z,27.0398,96.3025,10.0,4.6,mb,,44.0,6.064,1.24,us,us7000fxlf,2022-02-05T23:04:23.040Z,"68 km ESE of Margherita, India",earthquake,3.8,1.9,0.103,28.0,reviewed,us,us
+2021-11-27T09:47:16.620Z,22.8532,93.4368,58.3,4.4,mb,,146.0,3.934,0.4,us,us6000g8ew,2022-02-05T23:03:49.040Z,"25 km WSW of Falam, Myanmar",earthquake,10.3,8.7,0.13,22.0,reviewed,us,us
+2021-11-25T23:45:41.752Z,22.8232,93.5061,43.0,6.2,mww,,21.0,1.726,0.88,us,us7000fx45,2022-09-30T05:55:20.796Z,"20 km WSW of Falam, Myanmar",earthquake,5.4,3.7,0.08,15.0,reviewed,us,us
+2021-11-20T11:12:18.811Z,24.637,95.1196,128.95,4.6,mb,,52.0,0.849,0.69,us,us7000fvq9,2022-01-29T22:55:08.040Z,"107 km E of W?ngjing, India",earthquake,7.6,5.5,0.064,73.0,reviewed,us,us
+2021-11-12T17:48:17.033Z,25.4248,96.6407,19.56,4.3,mb,,88.0,4.326,0.68,us,us7000ftmh,2022-01-22T20:51:47.040Z,Myanmar,earthquake,7.6,5.2,0.108,24.0,reviewed,us,us
+2021-11-09T04:17:23.043Z,25.3783,94.9456,76.61,4.2,mb,,104.0,1.285,0.84,us,us7000fsk5,2022-01-15T20:51:42.040Z,"55 km SE of Phek, India",earthquake,9.3,8.1,0.16,11.0,reviewed,us,us
+2021-11-08T02:18:33.714Z,24.7068,95.1714,120.86,4.5,mb,,96.0,2.51,0.88,us,us7000fsb1,2022-01-15T20:51:39.040Z,"112 km E of W?ngjing, India",earthquake,2.7,4.9,0.067,66.0,reviewed,us,us
+2021-11-06T13:09:16.435Z,24.1594,94.7771,108.83,4.3,mb,,57.0,0.44,0.74,us,us7000fs01,2022-01-15T20:51:36.040Z,Myanmar-India border region,earthquake,8.7,5.5,0.102,30.0,reviewed,us,us
+2021-11-04T04:49:04.009Z,26.7969,92.5824,10.0,4.4,mb,,76.0,1.388,0.56,us,us7000fsqj,2022-01-14T17:59:07.040Z,"9 km WSW of Rang?p?ra, India",earthquake,7.1,1.6,0.144,14.0,reviewed,us,us
+2021-11-02T13:29:31.927Z,26.6453,96.7986,10.0,4.8,mb,,39.0,3.299,0.48,us,us7000fqu2,2022-01-14T17:58:54.040Z,"48 km N of Sarupathar, India",earthquake,7.9,1.8,0.061,91.0,reviewed,us,us
+2021-10-19T00:44:09.237Z,22.5257,92.7906,35.0,4.8,mb,,121.0,0.756,0.73,us,us6000fwrl,2021-12-25T22:58:59.040Z,"19 km W of Saiha, India",earthquake,3.2,2.0,0.175,10.0,reviewed,us,us
+2021-10-16T01:46:25.233Z,24.3171,93.8462,45.78,4.0,mb,,121.0,0.423,0.74,us,us6000fw6m,2021-12-25T22:58:53.040Z,"17 km E of Chur?ch?ndpur, India",earthquake,4.1,9.3,0.258,4.0,reviewed,us,us
+2021-10-07T18:28:03.669Z,22.3124,94.7676,110.0,5.5,mww,,23.0,1.129,0.81,us,us6000fsrg,2021-12-10T21:14:20.040Z,"44 km WNW of Monywa, Myanmar",earthquake,6.0,1.8,0.056,31.0,reviewed,us,us
+2021-10-02T22:01:42.717Z,24.9285,96.3949,10.0,4.2,mb,,164.0,2.029,0.31,us,us6000fr6v,2021-12-10T21:14:03.040Z,"112 km WSW of Myitkyina, Myanmar",earthquake,6.0,2.0,0.199,7.0,reviewed,us,us
+2021-10-01T04:57:33.206Z,25.4614,95.3035,102.96,4.4,mb,,64.0,1.528,0.91,us,us6000fqnb,2021-12-10T21:14:01.040Z,"83 km ESE of Phek, India",earthquake,6.9,7.1,0.203,10.0,reviewed,us,us
+2021-09-26T11:26:40.035Z,23.2858,93.8375,10.0,4.2,mb,,96.0,0.677,0.83,us,us7000fel5,2021-12-04T14:29:44.040Z,"44 km NNE of Falam, Myanmar",earthquake,3.6,1.9,0.152,12.0,reviewed,us,us
+2021-09-26T06:28:43.349Z,23.4064,93.4982,9.31,4.2,mb,,130.0,0.766,0.28,us,us6000fqhg,2021-12-04T14:28:33.040Z,"37 km E of Khawhai, India",earthquake,4.6,5.9,0.2,7.0,reviewed,us,us
+2021-09-19T19:24:04.697Z,25.2256,94.8803,80.05,5.0,mb,,48.0,1.123,0.68,us,us7000fcq5,2021-12-03T15:01:34.040Z,"62 km SE of Phek, India",earthquake,7.8,6.6,0.041,185.0,reviewed,us,us
+2021-09-16T04:49:42.856Z,23.6577,94.5361,93.27,4.4,mb,,74.0,0.608,0.59,us,us7000fbps,2021-11-23T15:12:57.040Z,"13 km E of Mawlaik, Myanmar",earthquake,6.3,5.5,0.189,8.0,reviewed,us,us
+2021-09-15T13:29:41.879Z,23.4599,93.4042,10.0,4.6,mb,,68.0,0.833,0.38,us,us7000fbf3,2021-11-23T15:12:33.040Z,"29 km ENE of Khawhai, India",earthquake,4.7,1.6,0.078,50.0,reviewed,us,us
+2021-09-14T10:40:07.639Z,23.5962,94.8405,108.35,4.3,mb,,92.0,0.801,0.16,us,us7000fcx3,2021-11-23T15:11:53.040Z,"44 km E of Mawlaik, Myanmar",earthquake,8.5,7.0,0.238,6.0,reviewed,us,us
+2021-09-04T12:05:15.767Z,26.5115,96.5587,97.98,4.5,mb,,69.0,3.055,0.46,us,us7000f7wc,2021-11-17T17:21:01.040Z,"42 km NW of Sarupathar, India",earthquake,9.2,3.9,0.067,65.0,reviewed,us,us
+2021-08-25T06:06:11.507Z,20.8876,96.9,10.0,4.4,mb,,87.0,0.172,0.93,us,us7000f7gk,2021-11-02T14:56:32.040Z,"18 km NW of Taunggyi, Myanmar",earthquake,4.6,1.9,0.203,9.0,reviewed,us,us
+2021-08-24T02:15:10.282Z,25.094,96.2561,10.0,4.6,mb,,73.0,1.976,0.75,us,us7000f2vd,2021-11-02T14:54:48.040Z,"119 km WSW of Myitkyina, Myanmar",earthquake,5.1,1.8,0.078,49.0,reviewed,us,us
+2021-08-22T12:22:03.864Z,22.2644,94.6702,121.52,4.6,mb,,51.0,1.059,1.03,us,us6000f9n1,2021-11-02T14:54:20.040Z,"51 km WNW of Monywa, Myanmar",earthquake,5.5,4.4,0.088,38.0,reviewed,us,us
+2021-08-17T16:23:45.456Z,25.7687,99.9762,10.0,4.3,mb,,60.0,4.476,0.78,us,us6000f7k5,2021-10-29T14:46:25.040Z,"31 km NW of Dali, China",earthquake,4.7,1.9,0.122,20.0,reviewed,us,us
+2021-08-17T15:32:24.925Z,24.6509,94.4519,63.33,4.9,mb,,33.0,0.441,1.19,us,us6000f7jj,2021-10-29T14:46:25.040Z,"39 km E of W?ngjing, India",earthquake,6.2,4.9,0.056,108.0,reviewed,us,us
+2021-08-10T05:50:16.593Z,16.4467,94.1222,15.42,4.1,mb,,150.0,3.828,0.53,us,us6000f8dj,2021-10-23T15:46:51.040Z,near the south coast of Myanmar,earthquake,6.6,5.5,0.158,12.0,reviewed,us,us
+2021-08-10T03:18:12.096Z,22.4535,95.9084,10.0,4.8,mb,,43.0,1.977,0.59,us,us6000f3rz,2021-10-23T15:46:00.040Z,"25 km ESE of Shwebo, Myanmar",earthquake,5.4,1.8,0.067,70.0,reviewed,us,us
+2021-08-09T15:48:30.416Z,20.4478,92.3214,10.0,4.2,mb,,156.0,2.306,0.62,us,us6000f3lz,2021-10-23T15:45:58.040Z,"45 km S of Tekn?f, Bangladesh",earthquake,8.9,1.9,0.237,5.0,reviewed,us,us
+2021-08-06T20:16:07.390Z,21.4095,94.7377,110.48,4.5,mb,,58.0,1.618,0.76,us,us6000f30b,2021-10-23T15:45:46.040Z,"36 km WNW of Pakokku, Myanmar",earthquake,6.2,6.4,0.082,49.0,reviewed,us,us
+2021-08-06T18:49:56.874Z,22.5189,94.2094,39.54,4.4,mb,,98.0,0.576,0.58,us,us6000f5mq,2021-10-23T15:46:44.040Z,"63 km ESE of Hakha, Myanmar",earthquake,5.7,7.8,0.162,13.0,reviewed,us,us
+2021-08-06T12:47:47.624Z,23.2137,94.1338,101.68,4.4,mb,,50.0,0.752,0.76,us,us6000f2sy,2021-10-23T15:45:44.040Z,"54 km SSW of Mawlaik, Myanmar",earthquake,5.0,4.1,0.117,23.0,reviewed,us,us
+2021-08-04T22:10:02.477Z,25.0993,94.9275,99.59,4.4,mb,,75.0,1.037,0.91,us,us6000f2a5,2021-10-14T01:07:19.040Z,"76 km SE of Phek, India",earthquake,9.2,9.3,0.11,24.0,reviewed,us,us
+2021-07-29T08:39:27.722Z,22.8638,95.9967,10.0,5.5,mb,,48.0,2.066,0.7,us,us6000f051,2021-10-03T05:23:09.040Z,"44 km NE of Shwebo, Myanmar",earthquake,5.8,1.8,0.055,114.0,reviewed,us,us
+2021-07-26T05:03:30.783Z,24.5824,94.4421,66.82,4.9,mb,,28.0,0.374,0.51,us,us6000ez3j,2021-10-03T05:22:07.040Z,"38 km E of W?ngjing, India",earthquake,6.6,4.4,0.04,197.0,reviewed,us,us
+2021-07-14T20:34:51.343Z,23.5272,94.7567,102.41,4.5,mb,,50.0,0.814,0.83,us,us7000elzz,2021-09-17T22:50:33.040Z,"38 km ESE of Mawlaik, Myanmar",earthquake,5.4,5.7,0.085,45.0,reviewed,us,us
+2021-07-14T20:10:53.149Z,22.4613,94.1567,39.36,4.2,mb,,82.0,0.545,0.6,us,us7000elzr,2021-09-17T22:50:32.040Z,"59 km ESE of Hakha, Myanmar",earthquake,5.9,4.4,0.136,15.0,reviewed,us,us
+2021-07-13T23:40:50.917Z,22.4445,94.2123,41.95,4.5,mb,,131.0,0.599,1.14,us,us7000emla,2021-09-17T22:51:07.040Z,"65 km ESE of Hakha, Myanmar",earthquake,6.7,9.2,0.221,6.0,reviewed,us,us
+2021-07-09T00:26:26.477Z,25.0311,95.2274,102.19,4.6,mb,,71.0,1.161,0.77,us,us6000etec,2022-08-09T05:49:17.255Z,"101 km SE of Phek, India",earthquake,8.6,7.4,0.091,36.0,reviewed,us,us
+2021-07-04T16:57:10.269Z,26.608,96.5397,10.0,4.6,mb,,65.0,3.115,0.69,us,us7000eip3,2021-09-10T20:07:33.040Z,"52 km NNW of Sarupathar, India",earthquake,3.2,1.9,0.109,27.0,reviewed,us,us
+2021-06-28T22:41:29.665Z,25.7746,100.0072,10.0,4.1,mb,,83.0,4.484,0.79,us,us7000ei8q,2021-09-09T22:06:44.040Z,"29 km NW of Dali, China",earthquake,8.2,1.9,0.135,15.0,reviewed,us,us
+2021-06-18T19:37:32.258Z,26.7357,92.4583,42.09,4.5,mb,,38.0,1.283,0.66,us,us7000ee8m,2021-08-27T18:57:25.040Z,"4 km NNW of Dhekiajuli, India",earthquake,5.8,5.1,0.053,114.0,reviewed,us,us
+2021-06-17T20:34:41.304Z,26.6776,92.3948,43.65,4.5,mb,,99.0,1.207,0.7,us,us7000edyb,2021-08-26T21:59:31.040Z,"8 km WSW of Dhekiajuli, India",earthquake,3.6,6.9,0.085,41.0,reviewed,us,us
+2021-06-15T14:46:08.092Z,26.6187,97.0854,36.12,4.8,mb,,57.0,3.464,0.48,us,us7000ed8l,2021-08-26T21:59:23.040Z,"53 km NNE of Sarupathar, India",earthquake,8.5,6.7,0.059,91.0,reviewed,us,us
+2021-06-12T10:00:48.450Z,24.9597,97.8861,10.0,4.9,mb,,35.0,3.344,0.49,us,us7000ecdv,2021-08-26T21:59:10.040Z,"68 km SE of Myitkyina, Myanmar",earthquake,6.0,1.8,0.05,124.0,reviewed,us,us
+2021-06-04T22:12:25.146Z,25.6398,100.1814,10.0,4.1,mb,,82.0,4.368,0.78,us,us7000e9v4,2021-08-24T21:35:40.040Z,"6 km NNW of Dali, China",earthquake,5.9,1.9,0.175,9.0,reviewed,us,us
+2021-05-31T19:49:34.458Z,23.2381,94.6949,111.49,4.4,mb,,146.0,1.051,0.73,us,us6000eged,2021-08-07T22:06:45.040Z,"53 km SSE of Mawlaik, Myanmar",earthquake,4.6,6.0,0.123,19.0,reviewed,us,us
+2021-05-31T04:20:49.211Z,26.7632,92.3186,34.13,4.2,mb,,86.0,1.261,0.64,us,us6000eg46,2021-08-07T22:06:30.040Z,"17 km WNW of Dhekiajuli, India",earthquake,6.9,5.5,0.118,20.0,reviewed,us,us
+2021-05-30T08:53:07.964Z,26.6343,92.326,52.85,4.4,mb,,113.0,1.144,0.57,us,us6000efyu,2021-08-07T22:06:13.040Z,"16 km WSW of Dhekiajuli, India",earthquake,8.0,8.1,0.097,31.0,reviewed,us,us
+2021-05-28T16:51:21.738Z,22.5949,94.7171,113.94,4.5,mb,,118.0,1.033,1.07,us,us6000eflk,2021-08-07T22:05:45.040Z,"68 km NW of Monywa, Myanmar",earthquake,7.3,7.3,0.139,15.0,reviewed,us,us
+2021-05-28T12:43:19.260Z,25.5796,100.1467,10.0,4.2,mb,,82.0,4.304,0.58,us,us6000eff8,2021-08-07T22:05:41.040Z,"6 km W of Dali, China",earthquake,8.8,1.9,0.16,11.0,reviewed,us,us
+2021-05-27T11:52:54.985Z,26.2866,99.5437,10.0,4.2,mb,,81.0,4.978,0.53,us,us6000ef1y,2021-07-31T22:10:14.040Z,"93 km SW of Lijiang, China",earthquake,10.1,2.0,0.263,4.0,reviewed,us,us
+2021-05-25T19:23:07.539Z,23.593,94.5857,99.63,4.1,mb,,102.0,0.685,0.68,us,us7000e66y,2021-07-31T22:09:44.040Z,"19 km ESE of Mawlaik, Myanmar",earthquake,5.9,5.8,0.114,26.0,reviewed,us,us
+2021-05-23T15:41:03.473Z,22.9496,94.5814,95.83,4.3,mb,,103.0,0.956,0.83,us,us6000efgh,2021-07-31T22:08:56.040Z,"78 km SSE of Mawlaik, Myanmar",earthquake,5.5,8.7,0.188,8.0,reviewed,us,us
+2021-05-23T01:26:40.871Z,24.7351,95.0955,103.92,4.4,mb,,85.0,0.882,0.78,us,us7000e5ej,2021-07-31T22:08:43.040Z,"105 km E of W?ngjing, India",earthquake,8.7,7.0,0.134,18.0,reviewed,us,us
+2021-05-22T12:14:37.916Z,25.709,100.0706,10.0,4.7,mb,,38.0,4.425,0.43,us,us7000e5an,2021-07-31T22:08:31.040Z,"19 km NW of Dali, China",earthquake,7.5,1.8,0.085,42.0,reviewed,us,us
+2021-05-22T01:48:03.901Z,25.7146,99.9459,10.0,4.4,mb,,131.0,4.42,0.97,us,us7000e580,2021-07-31T22:08:21.040Z,"30 km WNW of Dali, China",earthquake,11.4,1.9,0.143,15.0,reviewed,us,us
+2021-05-22T00:38:31.888Z,20.0893,95.7789,10.0,4.4,mb,,68.0,0.457,0.55,us,us7000e57r,2021-07-31T22:08:19.040Z,"26 km ENE of Taungdwingyi, Myanmar",earthquake,5.1,1.9,0.109,24.0,reviewed,us,us
+2021-05-21T20:10:59.176Z,25.7154,99.9773,10.0,4.1,mb,,80.0,4.423,0.49,us,us6000ef3r,2021-07-31T22:08:13.040Z,"27 km WNW of Dali, China",earthquake,9.5,2.0,0.158,11.0,reviewed,us,us
+2021-05-21T18:28:45.508Z,25.6714,99.978,10.0,4.9,mb,,53.0,4.38,0.86,us,us6000ef4a,2021-07-31T22:08:08.040Z,"25 km WNW of Dali, China",earthquake,7.4,1.8,0.087,45.0,reviewed,us,us
+2021-05-21T17:50:18.844Z,25.689,100.2762,10.0,4.2,mb,,70.0,4.428,0.67,us,us7000e54p,2021-07-31T22:08:06.040Z,"13 km NNE of Dali, China",earthquake,5.3,1.9,0.152,15.0,reviewed,us,us
+2021-05-21T17:36:07.635Z,25.6631,100.056,10.0,4.3,mb,,75.0,4.378,0.76,us,us7000e54e,2021-07-31T22:08:05.040Z,"17 km WNW of Dali, China",earthquake,5.0,1.9,0.133,19.0,reviewed,us,us
+2021-05-21T16:51:43.954Z,25.7324,100.0097,10.0,4.4,mb,,78.0,4.443,0.55,us,us7000e543,2021-07-31T22:08:04.040Z,"26 km NW of Dali, China",earthquake,8.6,1.9,0.139,16.0,reviewed,us,us
+2021-05-21T15:23:37.347Z,25.6603,100.2397,10.0,4.5,mb,,101.0,5.576,1.03,us,us7000e53i,2021-07-31T22:08:02.040Z,"8 km NNE of Dali, China",earthquake,5.8,1.9,0.128,18.0,reviewed,us,us
+2021-05-21T14:52:07.367Z,25.4865,100.6098,10.0,4.1,mb,,142.0,4.285,0.56,us,us6000ef3n,2021-07-31T22:08:02.040Z,"41 km ESE of Dali, China",earthquake,7.6,2.0,0.175,10.0,reviewed,us,us
+2021-05-21T14:31:12.001Z,25.6815,99.9907,10.0,5.1,mww,,44.0,4.391,0.9,us,us7000e53a,2022-08-09T05:11:29.642Z,"24 km WNW of Dali, China",earthquake,5.1,1.7,0.078,16.0,reviewed,us,us
+2021-05-21T13:56:40.871Z,25.838,100.1301,10.0,5.0,mb,,55.0,4.558,0.61,us,us6000ef3f,2021-07-31T22:08:01.040Z,"29 km NNW of Dali, China",earthquake,5.6,1.8,0.133,18.0,reviewed,us,us
+2021-05-21T13:55:32.019Z,25.8236,100.0176,10.0,5.0,mb,,83.0,4.534,0.71,us,us6000ef2w,2021-07-31T22:08:00.040Z,"32 km NW of Dali, China",earthquake,6.9,1.9,0.13,19.0,reviewed,us,us
+2021-05-21T13:48:37.193Z,25.7274,100.0082,9.0,6.1,mww,,17.0,4.438,0.93,us,us7000e532,2022-08-09T05:10:54.306Z,"25 km NW of Dali, China",earthquake,6.8,1.7,0.053,34.0,reviewed,us,us
+2021-05-21T13:21:59.864Z,25.5476,99.9993,10.0,5.1,mb,,80.0,22.746,0.63,us,us6000ef4u,2021-07-31T22:07:59.040Z,"21 km W of Dali, China",earthquake,13.0,1.9,0.147,15.0,reviewed,us,us
+2021-05-21T13:21:26.713Z,25.6924,100.0183,10.0,5.2,mww,,21.0,4.404,0.8,us,us7000e524,2021-07-31T22:07:59.040Z,"22 km WNW of Dali, China",earthquake,6.6,1.0,0.06,27.0,reviewed,us,us
+2021-05-21T12:56:05.004Z,25.6579,99.9889,10.0,4.6,mb,,77.0,4.367,0.59,us,us7000e51a,2021-07-31T22:07:58.040Z,"23 km WNW of Dali, China",earthquake,4.3,1.8,0.085,41.0,reviewed,us,us
+2021-05-19T17:58:59.912Z,25.751,100.2228,10.0,4.1,mb,,100.0,4.482,0.87,us,us7000e4iz,2021-07-24T21:08:21.040Z,"18 km N of Dali, China",earthquake,9.3,1.9,0.261,4.0,reviewed,us,us
+2021-05-19T13:13:10.739Z,25.8208,100.0915,10.0,4.3,mb,,81.0,4.537,0.64,us,us7000e64t,2021-07-24T21:08:15.040Z,"28 km NNW of Dali, China",earthquake,7.8,1.9,0.129,17.0,reviewed,us,us
+2021-05-19T12:05:59.072Z,25.5864,99.9677,10.0,4.6,mb,,80.0,4.295,0.34,us,us7000e4f5,2021-07-24T21:08:14.040Z,"24 km W of Dali, China",earthquake,8.3,1.9,0.105,27.0,reviewed,us,us
+2021-05-18T13:39:43.954Z,26.1305,99.4459,10.0,4.3,mb,,125.0,4.824,0.85,us,us7000e42s,2021-07-24T21:07:57.040Z,"97 km NW of Dali, China",earthquake,7.1,2.0,0.168,10.0,reviewed,us,us
+2021-05-18T12:56:54.330Z,26.4878,99.9121,10.0,4.3,mb,,64.0,5.187,0.71,us,us7000e5tu,2021-07-24T21:07:56.040Z,"52 km SW of Lijiang, China",earthquake,8.7,1.9,0.133,16.0,reviewed,us,us
+2021-05-18T12:03:01.251Z,26.6713,92.4258,49.81,4.4,mb,,81.0,1.213,0.4,us,us7000e42g,2021-07-24T21:07:56.040Z,"6 km SW of Dhekiajuli, India",earthquake,3.6,7.4,0.061,77.0,reviewed,us,us
+2021-05-18T10:49:40.043Z,26.7801,100.0826,10.0,4.2,mb,,91.0,6.603,0.48,us,us7000e5tr,2021-07-24T21:07:55.040Z,"16 km SW of Lijiang, China",earthquake,6.4,1.9,0.142,15.0,reviewed,us,us
+2021-05-15T03:03:56.663Z,26.753,92.4736,43.8,4.4,mb,,94.0,1.305,0.62,us,us7000e3ar,2021-07-24T21:07:04.040Z,"5 km N of Dhekiajuli, India",earthquake,8.0,7.9,0.134,18.0,reviewed,us,us
+2021-05-14T23:39:52.005Z,26.418,95.5047,85.91,4.2,mb,,120.0,2.436,0.76,us,us7000e38n,2021-07-24T21:06:59.040Z,"56 km SE of Mon, India",earthquake,9.4,5.9,0.14,14.0,reviewed,us,us
+2021-05-14T16:42:04.988Z,24.9625,95.1088,111.38,4.5,mb,,108.0,1.036,0.94,us,us7000e34s,2021-07-24T21:06:54.040Z,"99 km SE of Phek, India",earthquake,8.8,7.9,0.09,36.0,reviewed,us,us
+2021-05-13T03:42:38.756Z,24.4093,99.192,10.0,4.6,mb,,69.0,3.13,0.7,us,us7000e2pk,2021-07-23T18:08:39.040Z,"166 km SW of Dali, China",earthquake,6.3,1.9,0.083,43.0,reviewed,us,us
+2021-05-06T05:00:15.741Z,26.5945,92.4813,48.29,4.2,mb,,115.0,1.167,0.85,us,us7000e2dg,2021-07-10T20:16:11.040Z,"12 km S of Dhekiajuli, India",earthquake,9.1,5.5,0.216,6.0,reviewed,us,us
+2021-05-05T13:52:12.421Z,26.7384,92.0993,47.0,4.0,mb,,95.0,1.187,0.39,us,us7000e24v,2021-07-10T20:16:08.040Z,"1 km S of Udalguri, India",earthquake,7.5,3.6,0.122,21.0,reviewed,us,us
+2021-05-03T10:41:09.136Z,25.8803,96.7988,55.36,4.2,mb,,113.0,2.799,0.86,us,us7000e1tg,2021-07-10T20:16:01.040Z,"36 km S of Sarupathar, India",earthquake,6.3,9.7,0.158,12.0,reviewed,us,us
+2021-04-30T20:47:33.896Z,19.3381,97.1038,15.0,4.4,mb,,86.0,1.01,0.56,us,us7000dz4b,2022-08-09T04:53:36.711Z,"39 km SSW of Loikaw, Myanmar",earthquake,3.9,4.5,0.144,15.0,reviewed,us,us
+2021-04-30T13:40:06.220Z,24.2389,94.513,95.31,4.3,mb,,94.0,2.751,0.63,us,us7000e0qx,2021-07-10T20:15:44.040Z,"59 km SE of W?ngjing, India",earthquake,7.0,10.0,0.16,11.0,reviewed,us,us
+2021-04-28T19:50:53.770Z,26.7477,92.4849,38.21,4.8,mb,,83.0,1.304,0.56,us,us7000dybj,2021-07-07T18:37:19.040Z,"4 km N of Dhekiajuli, India",earthquake,7.6,5.6,0.044,157.0,reviewed,us,us
+2021-04-28T10:33:27.953Z,26.7662,92.5133,35.0,4.2,mb,,181.0,1.332,0.54,us,us7000e0d3,2021-07-07T18:37:06.040Z,"7 km NNE of Dhekiajuli, India",earthquake,10.5,2.0,0.215,7.0,reviewed,us,us
+2021-04-28T02:43:20.811Z,26.8262,92.5371,35.0,4.4,mb,,129.0,1.395,0.89,us,us7000e0c4,2021-07-07T18:36:50.040Z,"13 km W of Rang?p?ra, India",earthquake,9.1,2.0,0.123,19.0,reviewed,us,us
+2021-04-28T02:33:01.489Z,26.7489,92.5136,35.0,5.0,mb,,77.0,1.317,0.74,us,us7000dy3r,2021-07-07T18:36:50.040Z,"6 km NE of Dhekiajuli, India",earthquake,7.8,1.9,0.063,80.0,reviewed,us,us
+2021-04-28T02:21:26.212Z,26.7813,92.4565,34.0,6.0,mww,,11.0,1.324,0.79,us,us7000dy3b,2021-12-22T03:20:52.001Z,"8 km NNW of Dhekiajuli, India",earthquake,6.6,1.7,0.066,22.0,reviewed,us,us
+2021-04-18T13:24:32.776Z,22.5129,94.1955,24.67,5.1,mww,,35.0,2.364,0.81,us,us6000e2mn,2022-08-09T04:41:09.288Z,"61 km ESE of Hakha, Myanmar",earthquake,6.2,3.6,0.08,15.0,reviewed,us,us
+2021-04-06T02:04:03.736Z,21.9881,94.3005,51.39,4.0,mb,,144.0,2.554,0.38,us,us6000e1he,2021-06-12T21:37:34.040Z,"87 km W of Monywa, Myanmar",earthquake,9.7,10.1,0.196,7.0,reviewed,us,us
+2021-03-26T19:02:07.885Z,27.6289,92.6692,29.81,5.0,mww,,25.0,2.179,0.53,us,us6000dwue,2021-06-08T17:58:37.040Z,"47 km NNE of Bomdila, India",earthquake,5.6,4.2,0.098,10.0,reviewed,us,us
+2021-03-25T00:28:53.494Z,17.7099,94.1714,10.0,4.3,mb,,183.0,4.599,0.58,us,us6000dy6c,2021-06-02T15:23:32.040Z,"119 km NNW of Pathein, Myanmar",earthquake,5.9,2.0,0.188,8.0,reviewed,us,us
+2021-03-21T12:22:37.682Z,26.6195,92.5148,10.0,4.2,mb,,101.0,1.204,0.68,us,us6000dxfb,2021-06-02T15:23:12.040Z,"10 km SSE of Dhekiajuli, India",earthquake,8.0,1.9,0.102,27.0,reviewed,us,us
+2021-03-11T02:34:14.229Z,22.6746,94.565,103.62,4.5,mb,,138.0,0.892,0.51,us,us7000dkxh,2021-05-21T19:53:02.040Z,"85 km NW of Monywa, Myanmar",earthquake,5.7,8.0,0.127,18.0,reviewed,us,us
+2021-03-09T11:15:01.099Z,25.3809,95.0793,89.49,4.6,mb,,51.0,1.347,0.64,us,us7000dhef,2021-05-21T19:48:45.040Z,"66 km ESE of Phek, India",earthquake,7.6,7.2,0.05,119.0,reviewed,us,us
+2021-02-25T07:50:20.274Z,22.8779,96.0167,10.0,4.5,mb,,55.0,2.071,0.55,us,us7000ddij,2021-05-04T14:17:13.040Z,"47 km NE of Shwebo, Myanmar",earthquake,4.8,1.9,0.104,27.0,reviewed,us,us
+2021-02-25T04:19:58.736Z,22.3908,95.4803,22.58,4.1,mb,,68.0,1.757,1.07,us,us7000dew5,2021-05-04T14:17:09.040Z,"29 km SW of Shwebo, Myanmar",earthquake,5.0,6.8,0.165,10.0,reviewed,us,us
+2021-02-25T03:46:04.088Z,22.7,95.8415,20.12,4.2,mb,,110.0,2.071,0.62,us,us7000dew3,2021-05-04T14:17:08.040Z,"20 km NE of Shwebo, Myanmar",earthquake,6.5,4.0,0.152,12.0,reviewed,us,us
+2021-02-25T02:34:26.540Z,22.8585,95.9211,10.0,4.9,mb,,30.0,2.018,0.6,us,us7000ddgz,2021-05-04T14:17:07.040Z,"39 km NE of Shwebo, Myanmar",earthquake,3.1,1.8,0.079,51.0,reviewed,us,us
+2021-02-20T00:01:25.163Z,23.3318,94.5689,95.45,4.1,mb,,68.0,2.774,0.66,us,us6000djj9,2021-05-04T14:15:07.040Z,"38 km SSE of Mawlaik, Myanmar",earthquake,6.1,9.8,0.111,22.0,reviewed,us,us
+2021-02-17T12:24:46.809Z,26.7322,92.5712,18.67,4.6,mb,,84.0,1.326,0.65,us,us6000didl,2021-04-28T02:54:12.251Z,"9 km ENE of Dhekiajuli, India",earthquake,7.0,4.6,0.075,54.0,reviewed,us,us
+2021-02-11T08:04:50.599Z,22.9602,94.4802,102.99,4.4,mb,,111.0,0.872,0.53,us,us6000dj5j,2021-04-22T21:53:18.040Z,"75 km S of Mawlaik, Myanmar",earthquake,5.6,6.3,0.111,25.0,reviewed,us,us
+2021-02-05T11:47:47.677Z,20.9738,97.8148,10.0,4.7,mb,,42.0,0.758,0.6,us,us6000depg,2021-04-22T21:50:22.040Z,"83 km ENE of Taunggyi, Myanmar",earthquake,2.5,1.9,0.081,50.0,reviewed,us,us
+2021-01-31T20:04:24.547Z,24.9512,94.4749,47.39,4.1,mb,,90.0,0.735,1.02,us,us6000ddgp,2021-04-16T19:02:42.040Z,"52 km NE of Yairipok, India",earthquake,7.7,5.0,0.144,13.0,reviewed,us,us
+2021-01-27T18:56:21.382Z,26.293,95.7822,80.92,4.2,mb,,166.0,2.453,0.63,us,us6000def4,2021-04-13T17:05:56.040Z,"83 km SSE of Khonsa, India",earthquake,10.1,5.4,0.373,2.0,reviewed,us,us
+2021-01-22T21:14:43.356Z,24.326,95.0289,117.91,4.3,mb,,66.0,0.671,1.11,us,us7000d2iy,2021-04-13T17:05:08.040Z,"98 km NE of Mawlaik, Myanmar",earthquake,3.2,5.6,0.105,26.0,reviewed,us,us
+2021-01-17T13:42:51.924Z,24.5613,97.108,10.0,4.3,mb,,59.0,2.581,0.64,us,us7000d0wz,2021-03-27T21:05:07.040Z,"36 km NNW of Bhamo, Myanmar",earthquake,6.0,1.9,0.188,10.0,reviewed,us,us
+2021-01-17T06:59:48.217Z,26.0588,96.3433,10.0,4.3,mb,,78.0,2.597,0.45,us,us7000d3f8,2021-03-27T21:06:13.040Z,"49 km WSW of Sarupathar, India",earthquake,9.2,1.9,0.097,30.0,reviewed,us,us
+2021-01-17T04:44:46.410Z,24.2541,99.3891,10.0,4.4,mb,,70.0,2.96,0.91,us,us7000d0sr,2021-03-27T21:05:00.040Z,"169 km SSW of Dali, China",earthquake,5.0,1.9,0.143,15.0,reviewed,us,us
+2021-01-16T20:48:12.888Z,23.6359,93.5159,61.32,4.3,mb,,66.0,0.929,0.63,us,us7000d0pu,2021-03-27T21:04:54.040Z,"48 km NE of Khawhai, India",earthquake,3.9,7.6,0.097,30.0,reviewed,us,us
+2021-01-13T19:15:33.854Z,24.8799,93.3739,10.0,4.2,mb,,66.0,1.063,1.12,us,us6000d82z,2021-03-20T21:25:20.040Z,"38 km ENE of Lakhipur, India",earthquake,5.3,1.9,0.098,29.0,reviewed,us,us
+2021-01-13T01:07:21.948Z,22.7983,94.6878,108.51,4.1,mb,,146.0,1.016,0.4,us,us7000d249,2021-03-20T21:24:59.040Z,"89 km NNW of Monywa, Myanmar",earthquake,5.2,9.8,0.185,8.0,reviewed,us,us
+2022-12-30T08:13:20.446Z,21.917,94.4673,99.728,4.2,mb,20.0,165.0,2.64,0.33,us,us7000j118,2023-03-07T18:59:59.040Z,"72 km WSW of Monywa, Myanmar",earthquake,15.92,13.518,0.176,9.0,reviewed,us,us
+2022-12-28T04:18:04.774Z,23.2161,94.14,51.119,4.5,mb,57.0,110.0,2.364,0.73,us,us7000j0kh,2024-01-18T19:06:34.655Z,"54 km SSW of Mawlaik, Myanmar",earthquake,9.15,6.398,0.093,34.0,reviewed,us,us
+2022-12-20T21:21:15.970Z,24.5341,96.154,10.157,4.3,mb,35.0,111.0,3.835,0.6,us,us6000japf,2023-02-28T23:06:36.040Z,Myanmar,earthquake,7.82,4.011,0.129,17.0,reviewed,us,us
+2022-12-19T17:31:17.786Z,20.0744,95.9786,10.0,4.5,mb,37.0,83.0,0.33,0.61,us,us6000jadi,2023-02-28T23:06:30.040Z,"39 km NNW of Nay Pyi Taw, Myanmar",earthquake,3.24,1.865,0.127,18.0,reviewed,us,us
+2022-12-18T07:20:42.058Z,22.5559,93.7959,39.483,4.2,mb,15.0,169.0,3.498,0.51,us,us7000j0gs,2023-02-28T23:06:25.040Z,"21 km ESE of Hakha, Myanmar",earthquake,12.92,11.778,0.186,8.0,reviewed,us,us
+2022-12-17T16:05:42.099Z,24.2087,94.7294,98.089,4.2,mb,46.0,122.0,4.033,0.8,us,us6000ja0r,2023-02-28T23:06:22.040Z,"70 km NNE of Mawlaik, Myanmar",earthquake,9.79,8.434,0.117,23.0,reviewed,us,us
+2022-12-16T07:58:32.398Z,21.8211,95.8905,23.982,4.6,mb,51.0,76.0,1.495,0.45,us,us6000j9nn,2023-02-18T22:04:15.040Z,"11 km SW of Sagaing, Myanmar",earthquake,6.54,4.784,0.097,32.0,reviewed,us,us
+2022-12-15T17:12:53.035Z,24.8414,95.0837,101.752,4.4,mb,101.0,55.0,4.435,0.49,us,us6000j9ij,2023-02-18T22:04:14.040Z,"106 km E of Yairipok, India",earthquake,9.2,5.162,0.062,80.0,reviewed,us,us
+2022-12-14T20:46:31.402Z,21.8573,95.8778,10.0,4.8,mwr,87.0,54.0,1.528,0.6,us,us6000j99a,2023-02-18T22:04:11.040Z,"10 km WSW of Sagaing, Myanmar",earthquake,6.08,1.011,0.098,10.0,reviewed,us,us
+2022-12-09T15:40:44.925Z,26.0254,95.3931,99.202,4.5,mb,41.0,110.0,5.445,0.64,us,us6000j86w,2023-02-11T23:03:21.040Z,Myanmar-India border region,earthquake,11.76,7.041,0.1,29.0,reviewed,us,us
+2022-12-04T11:33:49.125Z,16.2075,96.1565,10.0,4.0,mb,27.0,98.0,3.381,0.37,us,us6000j7y9,2023-02-11T23:03:17.040Z,"51 km E of Pyapon, Myanmar",earthquake,6.03,1.913,0.15,13.0,reviewed,us,us
+2022-12-01T00:34:02.012Z,21.5043,94.8626,146.092,4.0,mb,23.0,95.0,2.091,0.35,us,us6000j7d2,2023-02-05T23:25:40.040Z,"29 km NW of Pakokku, Myanmar",earthquake,12.54,12.366,0.232,5.0,reviewed,us,us
+2022-11-11T01:32:19.091Z,23.0257,94.1073,42.858,4.2,mb,30.0,165.0,3.526,0.5,us,us7000inz1,2023-01-21T19:27:21.040Z,"45 km ENE of Falam, Myanmar",earthquake,12.95,4.868,0.146,14.0,reviewed,us,us
+2022-11-08T06:27:02.122Z,23.0649,94.5122,105.393,4.7,mb,77.0,54.0,3.272,0.39,us,us7000in8j,2023-01-21T19:27:14.040Z,"64 km S of Mawlaik, Myanmar",earthquake,3.05,6.686,0.066,69.0,reviewed,us,us
+2022-11-01T13:09:49.581Z,19.6848,94.5597,68.26,4.6,mb,83.0,76.0,1.489,0.4,us,us7000ilpd,2023-01-12T23:10:55.040Z,"64 km SSW of Minbu, Myanmar",earthquake,8.91,6.409,0.059,89.0,reviewed,us,us
+2022-10-31T00:45:56.922Z,26.6099,96.5205,10.0,4.6,mb,62.0,73.0,5.834,0.53,us,us7000ilef,2023-01-12T23:10:43.040Z,"53 km NNW of Sarupathar, India",earthquake,9.42,1.788,0.095,33.0,reviewed,us,us
+2022-10-30T14:45:06.392Z,25.1215,92.205,10.0,4.2,mb,28.0,157.0,5.596,0.77,us,us7000ilc3,2023-01-12T23:10:39.040Z,"31 km NNW of Kar?mganj, India",earthquake,6.84,1.913,0.152,14.0,reviewed,us,us
+2022-10-29T05:38:20.787Z,23.7023,94.4944,96.454,4.4,mb,43.0,84.0,3.75,0.71,us,us7000il4i,2023-01-12T23:10:28.040Z,Myanmar,earthquake,9.86,7.794,0.106,26.0,reviewed,us,us
+2022-10-25T11:09:34.944Z,20.1966,94.4057,64.331,4.4,mb,75.0,72.0,1.681,0.56,us,us6000iwb9,2023-01-03T15:23:37.040Z,"49 km W of Minbu, Myanmar",earthquake,8.57,7.255,0.085,40.0,reviewed,us,us
+2022-10-21T16:00:43.782Z,24.1894,94.6086,89.761,4.5,mb,47.0,77.0,4.077,0.55,us,us6000ivkb,2022-12-31T23:03:47.040Z,"64 km NNE of Mawlaik, Myanmar",earthquake,8.73,8.578,0.104,27.0,reviewed,us,us
+2022-10-19T21:36:33.541Z,18.8243,99.1277,5.411,4.2,mb,14.0,60.0,0.174,0.36,us,us6000iuyr,2023-11-17T01:49:31.206Z,"8 km N of San Kamphaeng, Thailand",earthquake,2.77,9.535,0.372,2.0,reviewed,us,us
+2022-10-16T00:52:13.602Z,22.8755,95.9272,10.0,4.6,mb,71.0,104.0,2.335,0.4,us,us6000iu1q,2022-12-31T23:03:34.040Z,"41 km NE of Shwebo, Myanmar",earthquake,7.03,1.888,0.079,48.0,reviewed,us,us
+2022-10-11T17:32:44.540Z,21.1176,99.8969,6.237,4.6,mb,84.0,43.0,0.332,0.63,us,us6000iss8,2022-12-17T22:53:54.040Z,"56 km S of K?ng Tung, Myanmar",earthquake,2.29,4.429,0.074,60.0,reviewed,us,us
+2022-10-11T04:51:00.817Z,19.6388,94.6638,72.46,4.1,mb,14.0,165.0,1.395,0.25,us,us6000iuc4,2022-12-17T22:54:16.040Z,Myanmar,earthquake,5.96,11.835,0.301,4.0,reviewed,us,us
+2022-09-30T02:23:15.751Z,24.7823,94.9256,10.0,4.6,mb,33.0,112.0,0.792,1.05,us,us6000iphx,2022-12-03T22:02:43.040Z,"89 km E of Yairipok, India",earthquake,6.57,1.889,0.182,11.0,reviewed,us,us
+2022-09-29T22:22:36.730Z,23.1002,94.8968,150.0,5.6,mww,161.0,20.0,3.03,0.72,us,us6000ipft,2022-12-03T22:02:42.040Z,"78 km SE of Mawlaik, Myanmar",earthquake,6.97,1.849,0.053,34.0,reviewed,us,us
+2022-09-25T12:02:48.675Z,18.2251,94.3829,22.461,4.4,mb,39.0,97.0,2.268,0.43,us,us7000iaxc,2022-12-03T22:03:22.040Z,"99 km W of Myanaung, Myanmar",earthquake,8.24,5.396,0.12,21.0,reviewed,us,us
+2022-09-23T02:47:43.266Z,24.8107,98.681,10.0,4.3,mb,37.0,81.0,3.607,1.12,us,us7000iacp,2022-11-26T20:57:55.040Z,"144 km ESE of Myitkyina, Myanmar",earthquake,9.38,1.888,0.168,11.0,reviewed,us,us
+2022-09-18T21:34:13.981Z,21.3093,94.8301,128.051,4.5,mb,71.0,34.0,1.955,0.53,us,us7000i953,2022-11-26T20:57:40.040Z,"26 km W of Pakokku, Myanmar",earthquake,7.24,5.228,0.058,87.0,reviewed,us,us
+2022-09-17T23:33:29.809Z,26.368,96.6018,122.703,4.3,mb,59.0,69.0,5.588,0.51,us,us7000i8xq,2022-11-26T20:57:35.040Z,"27 km NW of Sarupathar, India",earthquake,10.78,6.286,0.091,34.0,reviewed,us,us
+2022-09-17T18:01:48.028Z,16.6177,95.7575,10.0,4.3,mb,30.0,75.0,3.164,0.64,us,us7000iafu,2022-11-26T20:57:57.040Z,near the south coast of Myanmar,earthquake,7.03,1.872,0.202,9.0,reviewed,us,us
+2022-09-13T21:35:13.787Z,26.6232,96.133,10.0,4.4,mb,36.0,110.0,5.886,0.59,us,us7000i7sb,2022-11-19T23:03:02.040Z,"71 km SE of Khonsa, India",earthquake,13.13,1.896,0.105,26.0,reviewed,us,us
+2022-09-06T19:20:57.093Z,23.4002,93.8588,60.682,4.2,mb,59.0,115.0,3.941,0.65,us,us7000i5sv,2022-11-15T19:06:11.040Z,"57 km NNE of Falam, Myanmar",earthquake,9.56,7.591,0.095,36.0,reviewed,us,us
+2022-08-26T04:52:25.244Z,25.0099,95.2338,91.384,4.6,mb,45.0,53.0,2.792,0.67,us,us7000i2i8,2022-11-01T15:14:14.040Z,"103 km SE of Phek, India",earthquake,10.18,9.25,0.1,32.0,reviewed,us,us
+2022-08-24T21:48:11.227Z,23.7516,94.5482,96.15,5.0,mb,170.0,51.0,2.879,0.6,us,us7000i261,2022-11-01T15:14:05.040Z,"18 km NE of Mawlaik, Myanmar",earthquake,7.13,5.687,0.047,144.0,reviewed,us,us
+2022-08-13T20:01:09.554Z,25.6628,99.9823,10.0,4.2,mb,38.0,70.0,4.372,0.67,us,us6000ial9,2022-10-28T02:25:45.040Z,"24 km WNW of Dali, China",earthquake,7.15,1.9,0.132,16.0,reviewed,us,us
+2022-08-01T16:03:50.639Z,21.1847,99.8918,10.0,4.5,mb,34.0,48.0,0.299,0.7,us,us6000i769,2022-10-12T14:49:36.040Z,"49 km S of K?ng Tung, Myanmar",earthquake,3.91,1.886,0.119,21.0,reviewed,us,us
+2022-07-29T10:17:22.550Z,21.0519,99.8985,10.0,4.3,mwr,88.0,42.0,0.37,0.51,us,us6000i6fm,2022-10-01T22:09:29.040Z,"64 km S of K?ng Tung, Myanmar",earthquake,3.61,1.834,0.103,9.0,reviewed,us,us
+2022-07-29T09:58:46.530Z,21.0393,99.9212,10.0,4.8,mb,84.0,66.0,0.395,0.37,us,us6000i6fi,2022-10-01T22:09:29.040Z,"65 km S of K?ng Tung, Myanmar",earthquake,6.8,1.853,0.055,101.0,reviewed,us,us
+2022-07-26T15:13:43.440Z,23.5693,93.2709,42.7,4.6,mb,72.0,56.0,1.742,0.57,us,us7000htji,2022-10-01T22:09:55.040Z,"25 km NE of Khawhai, India",earthquake,7.89,6.553,0.074,57.0,reviewed,us,us
+2022-07-26T13:28:57.859Z,21.0705,99.9208,10.0,4.3,mb,39.0,52.0,0.376,0.45,us,us6000i8c5,2022-10-01T22:09:34.040Z,"62 km S of K?ng Tung, Myanmar",earthquake,2.57,1.883,0.126,21.0,reviewed,us,us
+2022-07-26T12:28:44.145Z,21.0707,99.9041,10.0,4.1,mb,27.0,48.0,0.363,0.37,us,us7000htiv,2022-10-01T22:09:54.040Z,"62 km S of K?ng Tung, Myanmar",earthquake,2.37,1.925,0.174,10.0,reviewed,us,us
+2022-07-26T11:51:14.182Z,21.0975,99.9402,10.0,4.2,mb,33.0,47.0,0.377,0.5,us,us7000htil,2022-10-01T22:09:54.040Z,"59 km S of K?ng Tung, Myanmar",earthquake,2.77,1.903,0.152,12.0,reviewed,us,us
+2022-07-24T13:11:14.636Z,21.1527,99.998,10.0,4.6,mb,59.0,42.0,0.403,0.59,us,us7000ht4v,2022-10-01T22:09:48.040Z,"53 km S of K?ng Tung, Myanmar",earthquake,5.65,1.842,0.073,58.0,reviewed,us,us
+2022-07-21T22:22:11.413Z,21.144,99.9004,10.0,4.9,mb,147.0,36.0,0.322,0.64,us,us7000hsj0,2022-09-27T16:57:13.040Z,"53 km S of K?ng Tung, Myanmar",earthquake,5.42,1.829,0.047,141.0,reviewed,us,us
+2022-07-21T20:00:37.653Z,21.192,99.9666,8.24,4.4,mb,31.0,102.0,0.363,0.8,us,us6000i6ji,2022-09-27T16:57:06.040Z,Myanmar,earthquake,3.8,5.4,0.149,13.0,reviewed,us,us
+2022-07-21T18:18:53.884Z,20.9801,99.7789,10.0,4.1,mb,25.0,51.0,0.351,0.67,us,us7000hsgl,2022-09-27T16:57:12.040Z,"59 km N of Tachilek, Myanmar",earthquake,5.4,1.8,0.166,10.0,reviewed,us,us
+2022-07-21T17:07:25.226Z,21.1504,99.8777,5.0,5.9,mww,128.0,37.0,0.3,0.88,us,us7000hsg4,2022-09-27T16:57:12.040Z,"53 km S of K?ng Tung, Myanmar",earthquake,5.99,1.795,0.051,37.0,reviewed,us,us
+2022-07-21T16:40:09.562Z,21.1024,99.8624,10.0,4.9,mww,142.0,34.0,0.313,0.72,us,us7000hsfx,2022-09-27T16:57:12.040Z,"58 km S of K?ng Tung, Myanmar",earthquake,6.18,1.791,0.083,14.0,reviewed,us,us
+2022-07-19T21:38:16.700Z,23.559,94.5663,110.324,4.3,mb,41.0,63.0,2.831,0.31,us,us7000hrx3,2022-09-27T16:57:08.040Z,"18 km ESE of Mawlaik, Myanmar",earthquake,6.99,6.389,0.099,29.0,reviewed,us,us
+2022-07-16T18:12:48.028Z,24.1883,94.4481,76.459,4.5,mb,79.0,57.0,2.984,0.89,us,us6000i32w,2022-09-27T16:56:54.040Z,"58 km SE of Kakching, India",earthquake,7.63,6.042,0.075,59.0,reviewed,us,us
+2022-07-16T10:01:31.028Z,21.5808,95.9779,12.791,4.3,mb,43.0,110.0,1.275,0.44,us,us6000i30f,2022-09-27T16:56:52.040Z,"16 km W of Kyaukse, Myanmar",earthquake,5.92,4.472,0.119,21.0,reviewed,us,us
+2022-07-15T23:48:49.478Z,23.0067,95.3111,10.197,4.4,mb,43.0,69.0,2.743,0.52,us,us6000i2wn,2022-09-24T21:25:31.040Z,"62 km NW of Shwebo, Myanmar",earthquake,8.71,4.581,0.13,17.0,reviewed,us,us
+2022-07-08T04:30:25.912Z,27.8815,94.1134,10.0,4.3,mb,23.0,108.0,5.237,0.65,us,us6000i2nr,2022-09-13T06:26:17.040Z,"41 km NE of Ziro, India",earthquake,8.4,1.7,0.169,11.0,reviewed,us,us
+2022-07-07T21:01:15.773Z,18.6394,96.782,10.0,4.6,mb,21.0,153.0,1.286,0.57,us,us6000i247,2022-09-13T06:26:13.040Z,"40 km ENE of Pyu, Myanmar",earthquake,6.6,1.9,0.172,10.0,reviewed,us,us
+2022-07-05T16:29:50.146Z,18.4692,94.7462,49.73,4.1,mb,33.0,143.0,1.851,0.48,us,us6000i00z,2022-09-13T06:22:43.040Z,"63 km SW of Pyay, Myanmar",earthquake,2.4,7.9,0.14,16.0,reviewed,us,us
+2022-07-03T02:26:12.521Z,19.5636,94.8605,10.0,5.1,mww,109.0,28.0,1.222,1.05,us,us6000hzh5,2022-09-13T06:21:22.040Z,"43 km WNW of Myaydo, Myanmar",earthquake,3.42,1.672,0.098,10.0,reviewed,us,us
+2022-06-29T18:54:43.331Z,21.1319,99.8911,10.0,4.7,mb,67.0,37.0,0.32,0.96,us,us6000hyji,2022-09-03T21:03:18.040Z,"55 km S of K?ng Tung, Myanmar",earthquake,4.7,1.1,0.074,55.0,reviewed,us,us
+2022-06-29T18:01:58.223Z,23.2297,94.5018,95.51,4.6,mb,70.0,64.0,2.692,0.88,us,us6000hyiz,2022-09-03T21:03:18.040Z,"46 km SSE of Mawlaik, Myanmar",earthquake,4.4,5.8,0.076,51.0,reviewed,us,us
+2022-06-25T00:47:29.977Z,21.2769,94.481,103.07,4.0,mb,13.0,171.0,1.586,0.48,us,us6000hysp,2022-09-03T21:03:20.040Z,"54 km NW of Chauk, Myanmar",earthquake,10.1,11.6,0.298,3.0,reviewed,us,us
+2022-06-13T15:44:41.452Z,22.9945,94.531,100.41,4.3,mb,36.0,72.0,3.211,0.67,us,us7000hh3k,2022-08-21T00:16:50.040Z,"72 km S of Mawlaik, Myanmar",earthquake,10.0,7.4,0.119,22.0,reviewed,us,us
+2022-06-08T03:26:30.255Z,21.1306,99.9038,10.0,4.2,mb,26.0,76.0,0.331,0.77,us,us7000hft8,2022-08-13T21:53:15.040Z,"55 km S of K?ng Tung, Myanmar",earthquake,3.9,1.9,0.187,8.0,reviewed,us,us
+2022-06-02T22:40:29.049Z,23.2613,95.957,10.0,4.2,mb,48.0,89.0,2.674,0.53,us,us7000hei4,2022-08-06T22:13:21.040Z,"68 km NW of Mogok, Myanmar",earthquake,7.4,1.8,0.102,27.0,reviewed,us,us
+2022-06-02T03:25:38.465Z,17.5218,94.253,10.0,4.3,mb,19.0,111.0,2.868,0.33,us,us7000hfl8,2022-08-06T22:13:28.040Z,"96 km NNW of Pathein, Myanmar",earthquake,10.8,1.9,0.217,9.0,reviewed,us,us
+2022-06-01T16:43:15.623Z,17.4476,94.2503,26.0,5.2,mww,129.0,40.0,2.928,0.58,us,us7000he50,2022-08-06T22:13:13.040Z,"90 km NW of Pathein, Myanmar",earthquake,5.4,1.8,0.098,10.0,reviewed,us,us
+2022-05-31T04:39:39.616Z,26.3635,95.6051,95.69,4.3,mb,23.0,90.0,4.13,0.95,us,us7000hdq8,2022-08-06T22:13:08.040Z,"68 km SE of Mon, India",earthquake,9.7,7.2,0.169,10.0,reviewed,us,us
+2022-05-23T03:56:45.915Z,22.7741,94.0827,13.98,4.4,mb,27.0,107.0,0.465,0.95,us,us7000hd2g,2022-08-02T19:50:59.040Z,"44 km ESE of Falam, Myanmar",earthquake,5.3,5.0,0.149,13.0,reviewed,us,us
+2022-05-21T03:14:07.365Z,22.8336,93.4891,47.2,4.5,mb,62.0,71.0,0.216,0.8,us,us6000hmu6,2022-08-02T19:50:36.040Z,"21 km WSW of Falam, Myanmar",earthquake,4.5,4.6,0.076,52.0,reviewed,us,us
+2022-05-20T18:39:16.682Z,25.0186,96.3401,10.0,4.3,mb,51.0,116.0,4.278,1.36,us,us6000hmqu,2022-07-24T02:40:41.040Z,"113 km WSW of Myitkyina, Myanmar",earthquake,10.4,1.9,0.097,32.0,reviewed,us,us
+2022-05-17T23:50:01.775Z,21.3045,98.5126,10.0,4.3,mb,36.0,66.0,1.004,0.49,us,us6000hlwe,2022-08-09T06:47:32.294Z,"150 km WSW of K?ng Tung, Myanmar",earthquake,6.3,1.9,0.129,17.0,reviewed,us,us
+2022-05-17T22:49:55.090Z,21.3707,98.5156,10.0,4.1,mb,25.0,70.0,1.005,0.47,us,us6000hlw6,2022-07-24T02:39:39.040Z,"149 km WSW of K?ng Tung, Myanmar",earthquake,5.6,1.9,0.213,6.0,reviewed,us,us
+2022-05-15T16:17:04.821Z,26.3342,92.3725,10.0,4.1,mb,35.0,94.0,3.701,0.72,us,us6000hld3,2022-07-24T02:38:53.040Z,"9 km NNE of Morigaon, India",earthquake,8.4,1.9,0.127,17.0,reviewed,us,us
+2022-05-13T12:26:04.558Z,25.6457,96.717,10.0,4.3,mb,28.0,108.0,4.863,0.83,us,us6000hmd0,2022-07-22T18:31:01.040Z,Myanmar,earthquake,10.0,1.9,0.137,16.0,reviewed,us,us
+2022-05-13T07:09:28.657Z,25.7111,96.8176,10.0,4.4,mb,37.0,72.0,4.239,0.51,us,us6000hksn,2022-07-22T18:30:53.040Z,"54 km S of Sarupathar, India",earthquake,6.2,1.7,0.123,20.0,reviewed,us,us
+2022-05-13T06:13:55.734Z,25.6938,96.8329,10.0,4.3,mb,21.0,173.0,4.236,0.7,us,us6000hkse,2022-07-22T18:30:52.040Z,"56 km S of Sarupathar, India",earthquake,10.9,2.0,0.188,8.0,reviewed,us,us
+2022-05-05T21:10:39.270Z,26.0674,99.9874,10.0,4.5,mb,49.0,79.0,4.773,0.6,us,us7000h7dz,2022-08-09T06:38:07.062Z,"58 km NNW of Dali, China",earthquake,8.4,1.9,0.097,31.0,reviewed,us,us
+2022-05-01T15:15:39.093Z,22.6784,94.2561,90.81,5.0,mb,137.0,43.0,2.413,0.7,us,us7000h67u,2024-01-18T16:34:48.598Z,"64 km ESE of Falam, Myanmar",earthquake,7.7,1.9,0.04,201.0,reviewed,us,us
+2022-04-29T17:23:51.985Z,27.8952,100.6915,10.0,4.6,mb,104.0,48.0,6.656,0.72,us,us7000h5vh,2024-01-18T16:34:41.759Z,"7 km NNE of Yongning, China",earthquake,9.1,1.9,0.058,94.0,reviewed,us,us
+2022-04-18T02:57:52.081Z,23.3586,94.7118,111.13,4.1,mb,,125.0,2.908,0.92,us,us6000hfn0,2022-06-26T01:19:06.040Z,"44 km SE of Mawlaik, Myanmar",earthquake,11.9,14.2,0.37,2.0,reviewed,us,us
+2022-04-17T22:31:39.157Z,25.9974,95.9133,79.64,4.3,mb,,134.0,5.305,0.61,us,us6000hfkv,2022-06-26T01:19:02.040Z,"92 km WSW of Sarupathar, India",earthquake,12.8,9.5,0.142,14.0,reviewed,us,us
+2022-04-16T23:51:26.153Z,25.3875,94.8228,74.41,4.1,mb,,107.0,3.966,0.28,us,us6000hfc6,2022-06-26T01:18:38.040Z,Myanmar-India border region,earthquake,11.4,8.7,0.135,15.0,reviewed,us,us
+2022-04-16T16:18:40.213Z,27.9643,100.8872,10.0,4.6,mb,,76.0,6.753,0.73,us,us7000h2pw,2022-08-06T06:03:07.399Z,"117 km E of Shangri-La, China",earthquake,10.3,1.9,0.067,67.0,reviewed,us,us
+2022-04-16T00:32:18.081Z,27.94,100.6023,10.0,4.7,mb,,80.0,6.688,0.71,us,us7000h2lk,2022-08-06T06:08:29.995Z,"88 km E of Shangri-La, China",earthquake,9.2,1.8,0.058,89.0,reviewed,us,us
+2022-04-10T00:06:16.892Z,21.3757,98.0041,10.0,4.4,mwr,,65.0,1.088,0.58,us,us7000h0zn,2022-06-20T22:07:38.040Z,"119 km ENE of Taunggyi, Myanmar",earthquake,4.5,1.9,0.073,18.0,reviewed,us,us
+2022-04-06T13:07:58.968Z,27.8474,100.5105,10.0,4.1,mb,,66.0,6.586,0.52,us,us7000h1s0,2022-06-11T20:21:18.040Z,"79 km E of Shangri-La, China",earthquake,8.3,1.9,0.134,15.0,reviewed,us,us
+2022-03-31T01:18:26.345Z,23.1411,94.1874,47.16,4.0,mb,,87.0,0.735,0.76,us,us7000gzuy,2022-06-04T20:42:26.040Z,"58 km ENE of Falam, Myanmar",earthquake,8.5,10.6,0.156,11.0,reviewed,us,us
+2022-03-21T06:36:03.776Z,24.1944,94.4865,82.38,4.5,mb,,54.0,3.017,0.55,us,us6000h6c6,2022-05-28T18:35:22.040Z,"61 km SE of W?ngjing, India",earthquake,6.9,6.8,0.053,107.0,reviewed,us,us
+2022-03-18T05:40:18.475Z,24.8691,93.6502,40.97,4.4,mb,,97.0,2.217,0.6,us,us7000gwn4,2022-05-27T14:55:45.040Z,"30 km WNW of Imph?l, India",earthquake,11.0,8.9,0.219,7.0,reviewed,us,us
+2022-03-15T00:25:52.672Z,23.2811,93.9006,10.0,4.1,mb,,153.0,3.834,1.01,us,us6000h5sj,2022-05-27T14:55:38.040Z,"46 km NNE of Falam, Myanmar",earthquake,8.0,1.9,0.15,12.0,reviewed,us,us
+2022-03-13T01:11:03.000Z,22.7307,94.5412,101.22,4.5,mb,,56.0,2.677,0.78,us,us6000h43x,2022-05-27T14:55:20.040Z,"90 km ESE of Falam, Myanmar",earthquake,7.9,2.4,0.069,65.0,reviewed,us,us
+2022-02-28T07:54:41.204Z,21.9422,95.541,10.0,4.2,mb,,117.0,1.816,0.9,us,us6000h0pr,2022-05-07T21:32:36.040Z,"45 km ESE of Monywa, Myanmar",earthquake,5.8,1.9,0.092,35.0,reviewed,us,us
+2022-02-21T15:23:43.852Z,22.6801,93.3976,48.71,4.6,mb,,128.0,1.621,0.67,us,us6000h01p,2022-05-04T13:39:19.040Z,"22 km W of Hakha, Myanmar",earthquake,9.0,3.7,0.244,8.0,reviewed,us,us
+2022-02-11T19:16:50.015Z,26.0883,96.4951,10.0,4.8,mb,,38.0,5.318,0.67,us,us7000gk3y,2022-04-19T17:40:12.040Z,"34 km WSW of Sarupathar, India",earthquake,6.9,1.8,0.047,155.0,reviewed,us,us
+2022-02-10T07:36:42.976Z,26.0465,100.0667,10.0,4.2,mb,,81.0,4.759,0.34,us,us7000gjkt,2022-04-19T17:39:27.040Z,"53 km NNW of Dali, China",earthquake,6.8,1.8,0.141,14.0,reviewed,us,us
+2022-01-23T15:52:50.262Z,25.0405,96.1665,10.0,4.4,mb,,108.0,4.326,0.41,us,us7000ggne,2022-04-09T20:18:54.040Z,"129 km WSW of Myitkyina, Myanmar",earthquake,9.9,1.9,0.143,17.0,reviewed,us,us
+2022-01-22T17:22:18.579Z,23.1302,94.2434,76.07,4.1,mb,,150.0,3.497,0.91,us,us7000gfxs,2022-04-09T20:18:50.040Z,"59 km SSW of Mawlaik, Myanmar",earthquake,11.1,9.9,0.262,7.0,reviewed,us,us
+2022-01-21T10:12:31.865Z,23.0871,93.8172,58.96,5.4,mww,,22.0,2.046,0.48,us,us7000gdtu,2022-04-01T17:40:24.040Z,"23 km NE of Falam, Myanmar",earthquake,5.5,4.6,0.075,17.0,reviewed,us,us
+2022-01-18T02:22:15.803Z,24.0361,93.5196,60.79,4.5,mb,,69.0,2.192,0.48,us,us7000gcs1,2022-04-01T17:40:15.040Z,"36 km SSW of Chur?ch?ndpur, India",earthquake,8.1,8.0,0.104,27.0,reviewed,us,us
+2022-01-16T21:09:22.262Z,25.2468,93.8695,10.0,4.6,mb,,64.0,3.27,0.96,us,us7000gez7,2022-04-01T17:40:30.040Z,"49 km N of Imph?l, India",earthquake,4.1,1.9,0.173,10.0,reviewed,us,us
+2022-01-16T10:50:58.840Z,23.8937,94.5597,73.01,4.2,mb,,118.0,3.862,0.75,us,us7000geym,2022-04-01T17:40:30.040Z,"31 km NNE of Mawlaik, Myanmar",earthquake,10.3,10.5,0.131,16.0,reviewed,us,us
+2022-01-15T11:19:44.531Z,27.1302,100.2948,10.0,4.6,mb,,106.0,5.853,0.54,us,us7000gew9,2022-04-01T17:40:29.040Z,"29 km NNE of Lijiang, China",earthquake,10.3,1.9,0.133,22.0,reviewed,us,us
+2022-01-14T08:29:05.776Z,24.3313,94.6403,89.01,4.2,mb,,102.0,4.179,0.89,us,us7000gbtz,2022-06-23T19:34:10.851Z,"Sagaing, Myanmar",earthquake,10.0,8.4,0.128,17.0,reviewed,us,us
+2022-01-13T19:03:30.121Z,25.0326,95.0765,94.89,4.1,mb,,120.0,2.963,0.89,us,us7000gdwl,2022-03-19T22:07:59.040Z,"91 km SE of Phek, India",earthquake,9.5,6.8,0.185,8.0,reviewed,us,us
+2022-01-12T20:46:57.971Z,25.22,94.1077,13.28,4.5,mb,,107.0,2.065,0.81,us,us7000gbfz,2022-03-19T22:07:54.040Z,"48 km NNE of Imph?l, India",earthquake,7.0,4.2,0.11,24.0,reviewed,us,us
+2022-01-12T06:17:33.221Z,23.1568,94.6845,98.81,4.6,mb,,98.0,1.124,0.66,us,us7000gb8w,2022-03-19T22:07:51.040Z,"60 km SSE of Mawlaik, Myanmar",earthquake,6.1,7.0,0.141,15.0,reviewed,us,us
+2022-01-05T09:52:52.015Z,27.8527,100.5876,10.0,4.7,mb,,71.0,6.6,0.49,us,us7000g97u,2022-03-12T22:19:09.040Z,"86 km E of Shangri-La, China",earthquake,6.6,1.9,0.094,34.0,reviewed,us,us
+2022-01-02T07:02:13.733Z,27.7998,100.7176,35.68,5.4,mww,,18.0,6.566,0.45,us,us7000g8fk,2022-03-27T18:48:46.968Z,"99 km E of Shangri-La, China",earthquake,5.7,4.7,0.065,23.0,reviewed,us,us
+2023-12-29T16:31:16.478Z,25.0911,96.5235,10.0,5.0,mb,70.0,66.0,4.14,0.8,us,us6000m0f0,2024-03-02T21:39:33.040Z,"93 km WSW of Myitkyina, Myanmar",earthquake,3.61,1.862,0.051,121.0,reviewed,us,us
+2023-12-25T23:53:27.068Z,23.139,94.522,114.245,4.1,mb,12.0,154.0,1.959,0.31,us,us6000m1tf,2024-03-02T21:39:35.040Z,"57 km SSE of Mawlaik, Myanmar",earthquake,18.63,12.4,0.198,7.0,reviewed,us,us
+2023-12-19T12:14:23.981Z,18.111,95.9762,10.0,4.5,mb,49.0,154.0,2.84,0.83,us,us7000lk1s,2024-02-27T22:57:01.040Z,"43 km NNE of Letpandan, Myanmar",earthquake,7.47,1.904,0.1,29.0,reviewed,us,us
+2023-12-18T23:43:13.481Z,22.8195,94.5073,87.022,4.1,mb,23.0,115.0,2.648,0.69,us,us6000m15i,2024-02-27T22:56:56.040Z,"85 km E of Falam, Myanmar",earthquake,8.22,9.853,0.186,8.0,reviewed,us,us
+2023-12-12T20:07:17.705Z,24.2461,94.865,118.744,4.3,mb,38.0,55.0,3.026,0.58,us,us7000ljwd,2024-02-17T22:43:12.040Z,"81 km NE of Mawlaik, Myanmar",earthquake,6.62,6.839,0.122,26.0,reviewed,us,us
+2023-12-03T01:13:41.199Z,23.6171,94.0944,70.037,4.3,mb,56.0,110.0,2.443,1.04,us,us7000lfq9,2024-02-10T23:47:22.040Z,"31 km W of Mawlaik, Myanmar",earthquake,8.41,6.55,0.097,31.0,reviewed,us,us
+2023-12-02T12:51:24.704Z,23.9997,94.1295,74.975,4.1,mb,19.0,132.0,2.874,0.29,us,us7000lgyz,2024-02-06T21:54:00.040Z,"48 km NW of Mawlaik, Myanmar",earthquake,11.82,7.162,0.15,12.0,reviewed,us,us
+2023-12-01T18:24:58.557Z,24.2168,98.0427,10.0,4.2,mb,37.0,95.0,4.161,0.84,us,us7000lf7c,2024-02-06T21:53:57.040Z,"24 km E of Zhangfeng, China",earthquake,5.91,1.85,0.118,23.0,reviewed,us,us
+2023-12-01T18:16:24.959Z,24.2718,98.3406,10.0,4.1,mb,26.0,100.0,4.393,0.53,us,us7000lgpt,2024-02-06T21:54:00.040Z,"5 km E of Zhefang, China",earthquake,7.5,1.719,0.151,14.0,reviewed,us,us
+2023-12-01T17:36:34.052Z,24.2615,98.1476,10.0,5.0,mww,220.0,42.0,4.26,0.62,us,us7000lf6x,2024-02-06T21:53:57.040Z,"13 km W of Zhefang, China",earthquake,7.37,1.745,0.089,12.0,reviewed,us,us
+2023-11-30T13:42:32.361Z,25.0005,95.5436,166.34,4.6,mb,42.0,110.0,3.821,0.82,us,us7000les7,2024-02-06T21:53:55.040Z,"128 km SE of Phek, India",earthquake,6.91,8.677,0.087,39.0,reviewed,us,us
+2023-11-29T01:41:52.476Z,24.4108,94.4578,73.909,4.2,mb,24.0,132.0,3.218,0.52,us,us7000lg65,2024-02-06T21:53:59.040Z,"44 km ESE of Wāngjing, India",earthquake,6.79,11.724,0.128,17.0,reviewed,us,us
+2023-11-28T12:11:50.049Z,25.1849,95.4219,10.0,4.6,mb,64.0,48.0,3.988,0.47,us,us7000leay,2024-02-06T21:53:54.040Z,"107 km ESE of Phek, India",earthquake,8.3,1.871,0.085,46.0,reviewed,us,us
+2023-11-25T20:07:30.268Z,25.2211,96.6026,10.0,4.1,mb,18.0,124.0,4.784,0.31,us,us7000lets,2024-02-01T15:13:47.040Z,"81 km WSW of Myitkyina, Myanmar",earthquake,7.96,1.87,0.197,7.0,reviewed,us,us
+2023-11-20T08:17:56.844Z,27.257,96.995,10.0,4.7,mb,40.0,37.0,5.711,0.38,us,us6000lpkj,2024-02-01T15:13:41.040Z,"100 km SSE of Hayuliang, India",earthquake,9.82,1.875,0.102,18.0,reviewed,us,us
+2023-11-17T06:02:20.752Z,21.1488,99.3556,10.0,4.5,mb,34.0,114.0,0.258,0.66,us,us6000lp0v,2024-01-26T16:37:47.040Z,"79 km SW of Kēng Tung, Myanmar",earthquake,3.47,1.906,0.106,26.0,reviewed,us,us
+2023-11-17T01:37:11.547Z,21.217,99.3304,15.733,5.7,mww,117.0,45.0,0.251,0.84,us,us6000lp06,2024-01-26T16:37:47.040Z,"76 km SW of Kēng Tung, Myanmar",earthquake,6.5,3.445,0.063,24.0,reviewed,us,us
+2023-11-14T00:25:47.867Z,23.1134,93.667,66.47,4.3,mb,29.0,108.0,1.917,0.52,us,us6000lp5l,2024-01-26T16:37:50.040Z,"22 km N of Falam, Myanmar",earthquake,3.97,8.55,0.137,15.0,reviewed,us,us
+2023-11-09T07:30:19.107Z,19.4394,98.3765,10.0,4.2,mb,17.0,127.0,1.114,0.49,us,us6000lncw,2024-01-13T23:09:32.040Z,"10 km NW of Pai, Thailand",earthquake,4.37,1.941,0.187,8.0,reviewed,us,us
+2023-11-03T19:39:09.153Z,26.4186,96.6025,118.316,4.2,mb,38.0,109.0,5.414,0.92,us,us7000l8qp,2024-01-18T21:13:23.509Z,"31 km NW of Sarupathar, India",earthquake,12.01,8.618,0.132,20.0,reviewed,us,us
+2023-11-01T21:44:36.662Z,21.033,92.127,22.237,4.1,mb,26.0,165.0,1.697,0.78,us,us7000l972,2024-01-10T06:01:35.040Z,"26 km NW of Teknāf, Bangladesh",earthquake,9.22,6.028,0.158,11.0,reviewed,us,us
+2023-10-29T11:02:19.991Z,20.1066,94.448,78.31,4.3,mb,46.0,138.0,1.178,0.71,us,us7000l7da,2024-01-10T06:01:10.040Z,"45 km W of Minbu, Myanmar",earthquake,8.3,7.517,0.099,29.0,reviewed,us,us
+2023-10-27T23:23:47.733Z,26.2481,95.5087,79.962,4.8,mb,112.0,60.0,5.005,0.57,us,us7000l70z,2024-01-04T04:22:29.040Z,"68 km E of Tuensang, India",earthquake,7.87,4.061,0.056,100.0,reviewed,us,us
+2023-10-26T18:29:02.059Z,26.7385,96.8669,52.637,4.3,mb,61.0,55.0,5.789,0.58,us,us7000l6lg,2024-01-04T04:22:19.040Z,"59 km N of Sarupathar, India",earthquake,7.77,4.325,0.091,34.0,reviewed,us,us
+2023-10-24T04:55:24.160Z,22.0121,94.1496,40.573,4.2,mb,21.0,99.0,2.414,0.33,us,us7000l6wh,2024-01-04T04:22:04.040Z,"89 km SE of Hakha, Myanmar",earthquake,8.84,8.766,0.167,10.0,reviewed,us,us
+2023-10-02T14:29:30.012Z,26.0535,97.0376,10.0,4.4,mb,35.0,93.0,5.203,0.65,us,us6000lc9d,2023-12-14T21:26:51.040Z,"28 km SE of Sarupathar, India",earthquake,9.02,1.891,0.134,18.0,reviewed,us,us
+2023-09-23T20:23:19.849Z,17.5005,95.7323,61.226,4.4,mb,16.0,176.0,3.2,0.81,us,us6000lbe1,2023-12-02T23:01:05.040Z,Myanmar,earthquake,9.95,11.688,0.203,7.0,reviewed,us,us
+2023-09-23T14:24:34.421Z,17.1447,96.1004,10.0,4.8,mb,67.0,44.0,3.006,0.63,us,us7000kxn3,2025-03-29T19:00:41.098Z,"38 km N of Yangon, Myanmar",earthquake,4.36,1.841,0.062,80.0,reviewed,us,us
+2023-09-17T06:37:58.353Z,24.5796,94.7033,10.119,4.2,mb,32.0,77.0,3.364,0.35,us,us7000kx4x,2023-12-02T23:01:09.040Z,"64 km E of Wāngjing, India",earthquake,8.14,4.832,0.118,20.0,reviewed,us,us
+2023-09-11T17:32:00.809Z,24.3645,94.8511,110.242,5.0,mww,126.0,29.0,3.39,0.87,us,us7000kv42,2023-11-18T22:29:33.040Z,"83 km ESE of Wāngjing, India",earthquake,7.72,5.096,0.089,12.0,reviewed,us,us
+2023-09-09T17:13:08.007Z,24.907,98.0949,13.471,4.0,mb,30.0,70.0,3.858,1.04,us,us7000kvqk,2023-11-17T19:47:53.040Z,"27 km NE of Yingjiang, China",earthquake,6.08,5.188,0.134,18.0,reviewed,us,us
+2023-09-09T10:18:30.146Z,24.6464,92.7849,47.764,4.8,mb,115.0,36.0,5.249,0.5,us,us7000kuka,2023-11-17T19:47:51.040Z,"19 km ENE of Lāla, India",earthquake,7.91,5.251,0.043,165.0,reviewed,us,us
+2023-09-07T04:59:22.159Z,22.4521,94.1323,87.501,4.4,mb,32.0,110.0,2.312,0.58,us,us7000kvan,2023-11-17T19:47:52.040Z,"57 km ESE of Hakha, Myanmar",earthquake,7.11,8.065,0.134,16.0,reviewed,us,us
+2023-08-21T10:42:06.204Z,20.6207,94.4893,81.737,4.5,mb,48.0,82.0,3.347,0.59,us,us7000kpvh,2023-10-28T19:15:33.040Z,"43 km WNW of Yenangyaung, Myanmar",earthquake,8.24,6.332,0.072,56.0,reviewed,us,us
+2023-08-20T07:42:43.181Z,20.6364,94.4043,61.128,4.7,mb,125.0,56.0,4.797,0.54,us,us7000kpky,2024-01-18T20:44:43.294Z,"51 km SW of Chauk, Myanmar",earthquake,7.54,4.901,0.051,117.0,reviewed,us,us
+2023-08-19T15:20:35.313Z,26.3499,92.845,35.0,4.8,mb,47.0,70.0,3.669,0.76,us,us7000kpgy,2024-05-29T13:27:55.290Z,"31 km S of Tezpur, India",earthquake,9.29,1.898,0.059,89.0,reviewed,us,us
+2023-08-14T14:49:48.667Z,24.9796,92.2481,36.648,5.3,mww,153.0,16.0,2.358,0.75,us,us6000kzvl,2023-12-02T03:54:13.016Z,"16 km NW of Karīmganj, India",earthquake,6.48,4.095,0.093,11.0,reviewed,us,us
+2023-08-09T07:53:51.524Z,23.6484,94.4277,125.576,4.3,mb,34.0,101.0,2.74,0.74,us,us7000knyr,2023-10-17T22:01:28.040Z,Myanmar,earthquake,7.21,6.782,0.143,18.0,reviewed,us,us
+2023-08-07T20:57:44.100Z,23.7427,94.78,109.02,4.3,mb,60.0,57.0,3.075,0.7,us,us6000kyik,2023-10-17T22:01:27.040Z,"39 km ENE of Mawlaik, Myanmar",earthquake,7.87,6.148,0.085,39.0,reviewed,us,us
+2023-08-02T10:57:00.160Z,21.1502,99.8687,10.0,4.3,mb,27.0,87.0,0.293,0.77,us,us6000kxaz,2023-10-07T21:38:56.040Z,"53 km S of Kēng Tung, Myanmar",earthquake,6.07,1.896,0.119,20.0,reviewed,us,us
+2023-07-29T22:29:32.010Z,20.1463,94.0671,43.85,4.4,mb,63.0,74.0,2.85,0.54,us,us6000kwkm,2023-09-30T21:36:34.040Z,"84 km W of Minbu, Myanmar",earthquake,7.77,6.986,0.076,50.0,reviewed,us,us
+2023-07-24T20:14:28.734Z,22.8262,94.4795,97.036,4.4,mb,41.0,68.0,2.623,0.55,us,us7000ki2c,2023-09-30T21:36:39.040Z,"82 km E of Falam, Myanmar",earthquake,8.91,3.365,0.098,30.0,reviewed,us,us
+2023-07-23T16:31:23.608Z,22.3642,94.3695,101.114,4.1,mb,29.0,132.0,2.945,0.87,us,us7000khu1,2023-09-30T21:36:39.040Z,"83 km WNW of Monywa, Myanmar",earthquake,11.0,9.636,0.14,15.0,reviewed,us,us
+2023-07-23T06:47:32.209Z,18.562,93.6142,10.0,4.6,mb,29.0,79.0,3.899,0.37,us,us7000khrq,2023-09-30T21:36:38.040Z,"172 km W of Pyay, Myanmar",earthquake,10.7,1.905,0.125,22.0,reviewed,us,us
+2023-07-21T20:05:46.184Z,25.1642,95.008,86.88,4.0,mb,45.0,83.0,3.951,0.56,us,us7000khhf,2023-09-28T21:34:05.040Z,"75 km SE of Phek, India",earthquake,6.94,6.875,0.1,30.0,reviewed,us,us
+2023-07-12T12:26:47.093Z,25.0831,95.4345,9.904,4.3,mb,21.0,128.0,4.54,0.52,us,us7000kh27,2023-09-16T19:16:22.040Z,"114 km SE of Phek, India",earthquake,10.41,4.073,0.16,11.0,reviewed,us,us
+2023-07-11T14:06:00.167Z,23.1582,94.0927,77.822,4.3,mb,62.0,87.0,2.309,0.48,us,us7000keva,2023-09-16T19:16:09.040Z,Myanmar,earthquake,8.13,7.31,0.077,48.0,reviewed,us,us
+2023-07-05T19:05:09.376Z,23.5846,93.9241,69.187,4.3,mb,48.0,69.0,2.286,1.02,us,us6000kqab,2023-09-09T21:54:49.040Z,"49 km W of Mawlaik, Myanmar",earthquake,7.49,6.41,0.106,25.0,reviewed,us,us
+2023-07-05T17:12:25.341Z,18.2502,95.096,68.007,4.1,mb,31.0,186.0,3.101,0.43,us,us7000kfek,2023-09-09T21:55:15.040Z,"24 km W of Myanaung, Myanmar",earthquake,8.46,9.48,0.114,21.0,reviewed,us,us
+2023-07-04T21:47:28.873Z,21.1685,93.3301,62.212,4.4,mb,31.0,99.0,3.484,0.57,us,us7000kf5l,2023-09-09T21:55:12.040Z,"112 km ENE of Teknāf, Bangladesh",earthquake,5.28,7.311,0.12,20.0,reviewed,us,us
+2023-07-04T07:25:32.260Z,26.5274,96.3583,89.642,4.6,mb,75.0,59.0,5.599,0.68,us,us6000kpzu,2023-09-09T21:54:45.040Z,"57 km NW of Sarupathar, India",earthquake,8.46,5.346,0.053,105.0,reviewed,us,us
+2023-06-30T16:46:53.102Z,21.0899,99.5285,10.0,4.5,mb,39.0,109.0,0.203,0.5,us,us6000kp8f,2023-09-08T14:18:30.040Z,"72 km SW of Kēng Tung, Myanmar",earthquake,11.88,1.892,0.097,31.0,reviewed,us,us
+2023-06-30T05:44:02.011Z,26.9851,96.6035,10.0,4.4,mb,34.0,132.0,5.534,0.64,us,us6000kp19,2023-09-08T14:18:29.040Z,"88 km NNW of Sarupathar, India",earthquake,9.51,1.919,0.12,21.0,reviewed,us,us
+2023-06-28T17:17:56.123Z,16.2764,99.9211,11.004,4.1,mb,24.0,169.0,2.362,0.97,us,us6000knpe,2024-11-22T10:05:49.793Z,"24 km NNE of Khanu Woralaksaburi, Thailand",earthquake,11.35,4.819,0.184,8.0,reviewed,us,us
+2023-06-22T16:42:44.175Z,21.3269,93.7994,56.745,4.3,mb,48.0,165.0,2.411,0.83,us,us7000kaec,2023-08-26T20:54:27.040Z,Myanmar,earthquake,8.58,7.665,0.093,34.0,reviewed,us,us
+2023-06-16T04:46:11.360Z,24.7339,92.0224,10.0,5.0,mb,79.0,60.0,5.014,0.91,us,us7000k8uw,2023-08-21T04:19:04.040Z,India-Bangladesh border region,earthquake,6.71,1.839,0.061,86.0,reviewed,us,us
+2023-06-12T21:23:08.724Z,26.1093,95.2775,77.469,4.3,mb,32.0,134.0,5.129,0.69,us,us7000k82d,2023-08-21T04:18:45.040Z,"48 km ESE of Tuensang, India",earthquake,7.95,8.954,0.138,15.0,reviewed,us,us
+2023-06-09T19:35:15.231Z,21.1244,99.8603,14.922,4.3,mb,59.0,44.0,0.299,0.49,us,us7000k7hq,2023-08-12T17:15:14.040Z,"56 km S of Kēng Tung, Myanmar",earthquake,2.54,4.419,0.091,40.0,reviewed,us,us
+2023-06-07T10:32:05.013Z,16.8315,95.6686,14.76,4.4,mb,26.0,100.0,2.965,0.45,us,us7000k8en,2023-08-12T17:15:20.040Z,"11 km N of Maubin, Myanmar",earthquake,8.52,2.173,0.155,12.0,reviewed,us,us
+2023-06-07T09:53:50.779Z,16.8861,95.5462,10.0,4.8,mb,77.0,100.0,2.931,0.55,us,us7000k6tu,2023-08-12T17:15:06.040Z,"20 km SSW of Nyaungdon, Myanmar",earthquake,6.95,1.838,0.075,54.0,reviewed,us,us
+2023-06-03T11:36:51.638Z,25.2464,96.2529,10.0,4.1,mb,17.0,127.0,6.358,0.26,us,us7000k7dn,2023-08-05T22:08:02.040Z,"116 km W of Myitkyina, Myanmar",earthquake,8.88,1.868,0.184,8.0,reviewed,us,us
+2023-06-01T03:30:53.257Z,26.0736,95.1588,31.912,4.2,mb,17.0,137.0,5.554,0.9,us,us7000k72v,2024-01-18T20:03:25.089Z,"39 km ESE of Tuensang, India",earthquake,12.83,7.948,0.236,5.0,reviewed,us,us
+2023-05-31T11:20:14.013Z,25.1051,96.2315,10.0,5.9,mww,194.0,43.0,4.379,0.71,us,us7000k58h,2023-09-23T14:37:07.535Z,"121 km WSW of Myitkyina, Myanmar",earthquake,6.38,1.321,0.075,17.0,reviewed,us,us
+2023-05-29T02:33:31.480Z,26.7587,92.4485,10.0,4.9,mb,143.0,80.0,3.157,0.74,us,us7000k4q0,2023-08-14T15:18:58.836Z,"6 km NNW of Dhekiajuli, India",earthquake,8.19,1.808,0.051,122.0,reviewed,us,us
+2023-05-27T21:36:33.057Z,27.0688,92.6797,10.0,4.5,mb,26.0,116.0,2.96,0.64,us,us7000k4iq,2023-07-29T22:00:44.040Z,"25 km N of Rangāpāra, India",earthquake,7.59,1.597,0.163,11.0,reviewed,us,us
+2023-05-22T02:45:35.828Z,26.8674,97.023,10.0,5.0,mb,159.0,35.0,5.916,0.52,us,us6000kdsy,2023-07-29T22:00:27.040Z,"76 km NNE of Sarupathar, India",earthquake,7.84,1.741,0.05,125.0,reviewed,us,us
+2023-05-21T13:47:32.910Z,24.8062,94.7301,83.027,4.1,mb,32.0,139.0,4.546,0.67,us,us6000kdmh,2023-07-29T22:00:26.040Z,Myanmar-India border region,earthquake,10.4,9.182,0.12,19.0,reviewed,us,us
+2023-05-17T15:23:52.896Z,23.3243,98.3411,10.0,4.1,mwr,43.0,85.0,2.335,0.69,us,us6000kcik,2023-07-24T01:16:25.040Z,"74 km NE of Lashio, Myanmar",earthquake,6.93,1.895,0.083,14.0,reviewed,us,us
+2023-05-11T20:44:56.551Z,21.6539,93.1376,51.123,4.5,mb,69.0,54.0,1.72,0.98,us,us6000kb7z,2023-07-22T19:16:53.040Z,"94 km S of Saiha, India",earthquake,7.61,6.093,0.068,63.0,reviewed,us,us
+2023-05-03T23:48:53.606Z,27.3244,97.0318,10.0,4.6,mb,104.0,60.0,6.448,0.59,us,us6000k9cr,2023-07-15T22:09:33.040Z,"95 km SSE of Hayuliang, India",earthquake,7.47,1.813,0.067,67.0,reviewed,us,us
+2023-05-02T15:38:19.810Z,25.4275,99.3564,10.0,4.6,mb,81.0,73.0,4.128,0.66,us,us7000jxiz,2023-07-15T22:10:54.040Z,"17 km WSW of Bonan, China",earthquake,8.38,1.852,0.077,50.0,reviewed,us,us
+2023-05-02T15:27:23.366Z,25.4011,99.2692,10.0,5.3,mww,156.0,22.0,4.107,0.79,us,us7000jxi4,2024-01-18T19:53:52.203Z,"26 km WSW of Bonan, China",earthquake,7.2,1.805,0.062,25.0,reviewed,us,us
+2023-04-30T06:56:56.920Z,23.0061,94.3511,94.415,4.6,mb,135.0,47.0,3.342,0.66,us,us7000jx4v,2023-07-15T22:10:35.040Z,"69 km E of Falam, Myanmar",earthquake,7.77,6.484,0.04,186.0,reviewed,us,us
+2023-04-10T00:46:37.010Z,22.9943,94.8376,141.241,4.6,mb,86.0,35.0,2.964,0.64,us,us6000k36y,2023-06-17T21:36:42.040Z,"84 km SSE of Mawlaik, Myanmar",earthquake,7.84,5.359,0.081,45.0,reviewed,us,us
+2023-04-08T11:52:40.562Z,25.2055,96.2774,10.0,4.2,mb,38.0,105.0,4.471,0.61,us,us6000k2v1,2023-06-13T03:12:23.040Z,"114 km W of Myitkyina, Myanmar",earthquake,8.42,1.735,0.115,23.0,reviewed,us,us
+2023-03-25T12:03:44.799Z,22.6542,95.3355,11.095,4.2,mb,16.0,136.0,2.453,0.29,us,us7000jmp2,2023-05-26T21:54:20.040Z,"38 km WNW of Shwebo, Myanmar",earthquake,8.9,4.668,0.152,12.0,reviewed,us,us
+2023-03-25T06:51:47.013Z,18.3402,94.9979,53.519,4.1,mb,17.0,173.0,1.791,0.46,us,us6000k0mc,2023-05-26T21:54:02.040Z,"34 km W of Myanaung, Myanmar",earthquake,8.61,7.101,0.233,5.0,reviewed,us,us
+2023-03-24T03:22:42.572Z,24.1675,93.794,78.995,4.4,mb,32.0,73.0,2.471,0.52,us,us6000k0lk,2023-05-26T21:54:02.040Z,"Manipur, India region",earthquake,9.67,8.197,0.155,12.0,reviewed,us,us
+2023-03-23T10:26:35.584Z,22.5162,100.9286,10.0,4.3,mb,27.0,86.0,1.745,0.86,us,us6000k0cv,2023-05-26T21:54:01.040Z,"30 km S of Simao, China",earthquake,7.24,1.886,0.189,8.0,reviewed,us,us
+2023-03-12T11:43:43.297Z,24.276,94.7151,113.11,4.6,mb,77.0,48.0,4.097,0.43,us,us7000jjbm,2023-05-20T23:20:17.040Z,"74 km ESE of Wāngjing, India",earthquake,2.94,6.734,0.06,83.0,reviewed,us,us
+2023-03-02T15:04:26.543Z,16.1726,93.3461,10.0,4.5,mb,32.0,67.0,5.809,1.08,us,us7000jih3,2023-05-08T02:00:21.040Z,"162 km WSW of Pathein, Myanmar",earthquake,9.85,1.861,0.145,17.0,reviewed,us,us
+2023-02-28T17:58:26.088Z,23.9005,99.5462,10.0,4.4,mb,52.0,54.0,3.734,0.63,us,us7000ji67,2023-05-08T01:59:57.040Z,"55 km W of Lincang, China",earthquake,6.16,1.865,0.096,37.0,reviewed,us,us
+2023-02-25T10:39:46.063Z,21.0328,92.5067,10.0,4.2,mb,17.0,161.0,3.627,0.6,us,us7000jh3j,2023-04-29T21:57:37.040Z,"29 km NE of Tekn?f, Bangladesh",earthquake,10.91,1.942,0.263,5.0,reviewed,us,us
+2023-02-18T18:53:06.701Z,24.279,98.0811,10.0,4.1,mb,24.0,103.0,3.625,0.51,us,us6000jpyk,2023-04-22T21:33:19.040Z,"20 km W of Zhefang, China",earthquake,8.13,1.817,0.174,12.0,reviewed,us,us
+2023-02-16T01:00:02.100Z,21.2059,100.0009,10.0,4.4,mb,21.0,59.0,1.033,0.64,us,us6000jr8b,2023-04-22T21:33:26.040Z,"47 km S of K?ng Tung, Myanmar",earthquake,5.28,1.947,0.219,6.0,reviewed,us,us
+2023-02-12T23:01:18.050Z,23.0353,94.5227,104.754,4.3,mb,24.0,107.0,2.68,0.35,us,us6000jqc6,2023-04-22T21:33:21.040Z,"68 km S of Mawlaik, Myanmar",earthquake,9.39,8.733,0.16,11.0,reviewed,us,us
+2023-02-12T10:48:14.855Z,26.3749,92.9259,10.0,4.2,mb,20.0,128.0,5.67,0.47,us,us6000jngh,2023-04-22T21:33:02.040Z,"31 km SSE of Tezpur, India",earthquake,10.21,1.952,0.176,9.0,reviewed,us,us
+2023-02-04T07:34:41.429Z,22.7357,95.9238,10.0,4.2,mb,25.0,127.0,2.213,0.61,us,us6000jlcr,2023-04-13T21:53:23.040Z,"29 km NE of Shwebo, Myanmar",earthquake,5.42,1.92,0.153,12.0,reviewed,us,us
+2023-02-02T01:04:52.791Z,19.9292,94.2003,36.678,4.4,mb,22.0,161.0,1.83,0.42,us,us6000jkwa,2023-04-13T21:53:17.040Z,"75 km WSW of Minbu, Myanmar",earthquake,10.62,9.239,0.149,13.0,reviewed,us,us
+2023-01-31T04:49:06.032Z,24.5866,94.459,69.006,4.6,mb,76.0,75.0,3.207,0.8,us,us6000jkh1,2023-04-13T21:53:12.040Z,"40 km E of W?ngjing, India",earthquake,7.54,5.868,0.053,105.0,reviewed,us,us
+2023-01-23T13:42:02.771Z,24.8836,93.079,10.0,5.1,mb,110.0,42.0,2.561,0.91,us,us7000j6c8,2023-04-11T18:51:54.040Z,"12 km NE of Lakhipur, India",earthquake,6.02,1.551,0.042,184.0,reviewed,us,us
+2023-01-16T21:57:03.225Z,21.1014,100.0762,13.998,4.3,mb,22.0,48.0,0.912,0.83,us,us6000jj5a,2023-03-31T19:43:13.040Z,"60 km SSE of K?ng Tung, Myanmar",earthquake,5.88,4.716,0.202,7.0,reviewed,us,us
+2023-01-16T20:20:12.456Z,23.5913,92.4156,10.0,4.1,mb,43.0,85.0,1.155,0.99,us,us7000j4s0,2023-03-31T19:44:41.040Z,India-Bangladesh border region,earthquake,3.89,1.884,0.12,19.0,reviewed,us,us
+2023-01-15T04:03:06.634Z,21.9399,96.0213,10.0,4.3,mb,21.0,130.0,2.153,0.55,us,us6000jiwk,2023-03-31T19:43:03.040Z,"7 km WSW of Mandalay, Myanmar",earthquake,9.0,1.765,0.218,7.0,reviewed,us,us
+2023-01-10T01:42:57.492Z,26.705,96.5576,10.0,4.6,mb,66.0,95.0,6.905,0.65,us,us7000j3bs,2023-03-20T06:03:10.040Z,"60 km NNW of Sarupathar, India",earthquake,6.92,1.738,0.085,42.0,reviewed,us,us
+2023-01-09T12:51:34.613Z,24.299,98.7509,10.0,4.2,mb,29.0,87.0,4.32,0.68,us,us7000j5gk,2023-03-20T06:03:49.040Z,Myanmar-China border region,earthquake,10.64,1.843,0.128,17.0,reviewed,us,us
+2023-01-05T05:51:24.614Z,24.1249,95.8673,10.751,4.5,mb,49.0,62.0,3.51,0.43,us,us7000j28c,2023-03-11T22:51:40.040Z,"139 km W of Bhamo, Myanmar",earthquake,5.47,4.535,0.09,36.0,reviewed,us,us
+2023-01-01T05:27:09.979Z,17.4535,93.4248,39.85,4.7,mb,45.0,85.0,3.459,0.5,us,us7000j1cd,2023-03-11T22:51:29.040Z,"157 km WNW of Pathein, Myanmar",earthquake,8.67,7.199,0.097,33.0,reviewed,us,us
+2024-12-23T17:57:25.649Z,19.5557,95.0613,85.383,4.9,mb,61.0,83.0,1.647,0.52,us,us6000pfbh,2025-03-08T22:39:09.040Z,"26 km NW of Myaydo, Myanmar",earthquake,7.6,7.186,0.055,103.0,reviewed,us,us
+2024-12-20T13:13:08.914Z,23.6675,94.0488,69.573,4.4,mb,58.0,136.0,2.578,0.63,us,us7000p0au,2025-02-27T17:30:53.040Z,"36 km W of Mawlaik, Myanmar",earthquake,7.72,7.246,0.081,44.0,reviewed,us,us
+2024-12-18T16:46:43.648Z,26.1308,100.7419,10.0,4.3,mb,27.0,81.0,4.937,1.0,us,us6000phh7,2025-02-27T17:30:48.040Z,"20 km NE of Pianjiao, China",earthquake,6.91,1.851,0.129,17.0,reviewed,us,us
+2024-12-14T01:05:29.137Z,25.9364,96.5936,10.0,4.4,mb,40.0,111.0,4.954,0.46,us,us7000nyrk,2025-02-18T20:02:58.040Z,"36 km SW of Sarupathar, India",earthquake,7.37,1.906,0.101,28.0,reviewed,us,us
+2024-12-11T11:53:29.138Z,22.5954,93.8612,55.118,4.4,mb,41.0,160.0,1.695,0.65,us,us7000nxub,2025-02-18T20:02:55.040Z,"26 km ESE of Hakha, Myanmar",earthquake,11.35,9.176,0.099,29.0,reviewed,us,us
+2024-12-11T01:26:00.061Z,23.5806,94.6445,107.502,4.6,mb,72.0,106.0,2.377,0.7,us,us7000nxr5,2025-02-18T20:02:54.040Z,"25 km ESE of Mawlaik, Myanmar",earthquake,11.43,8.191,0.071,59.0,reviewed,us,us
+2024-12-01T07:57:44.830Z,18.4347,95.1919,80.697,4.6,mb,49.0,166.0,2.769,0.53,us,us7000nv8y,2025-02-02T00:54:28.040Z,"21 km NW of Myanaung, Myanmar",earthquake,4.22,7.72,0.066,69.0,reviewed,us,us
+2024-11-28T01:52:59.710Z,25.3723,94.8209,105.396,4.3,mb,35.0,109.0,4.148,0.66,us,us7000numd,2025-02-02T00:52:53.040Z,"45 km SE of Phek, India",earthquake,9.32,7.472,0.114,22.0,reviewed,us,us
+2024-11-27T12:50:07.302Z,24.6737,93.5219,57.065,4.3,mb,36.0,75.0,3.683,0.55,us,us7000nuhz,2025-02-02T00:52:31.040Z,"32 km NW of Moirāng, India",earthquake,9.84,5.834,0.109,24.0,reviewed,us,us
+2024-11-26T08:03:26.083Z,24.848,96.1065,10.0,4.9,mb,54.0,82.0,3.787,0.83,us,us7000nu7y,2025-02-02T00:51:55.040Z,"131 km WNW of Bhamo, Myanmar",earthquake,7.41,1.885,0.071,62.0,reviewed,us,us
+2024-11-23T17:35:06.040Z,25.0441,92.7769,59.18,4.2,mb,47.0,111.0,4.298,0.86,us,us6000p7ad,2025-01-30T17:00:33.040Z,"24 km N of Silchar, India",earthquake,11.2,6.792,0.089,39.0,reviewed,us,us
+2024-11-20T11:18:25.182Z,16.3891,95.7591,10.795,4.2,mb,19.0,170.0,3.67,0.41,us,us7000nw5y,2025-01-30T17:00:36.040Z,"7 km SSE of Kyaiklat, Myanmar",earthquake,10.18,5.883,0.159,11.0,reviewed,us,us
+2024-11-20T11:04:45.627Z,16.3747,95.7308,11.221,4.2,mb,22.0,176.0,3.7,0.47,us,us7000nw5x,2025-01-30T17:00:36.040Z,"7 km S of Kyaiklat, Myanmar",earthquake,10.0,5.582,0.167,11.0,reviewed,us,us
+2024-11-18T06:27:31.689Z,26.3299,96.0,123.626,4.0,mb,33.0,113.0,5.196,0.78,us,us7000nvux,2025-01-30T17:00:35.040Z,"82 km W of Sarupathar, India",earthquake,12.55,6.881,0.113,22.0,reviewed,us,us
+2024-11-03T04:58:05.890Z,17.3662,92.9035,10.0,4.3,mb,26.0,81.0,4.266,1.02,us,us7000npne,2025-01-16T18:47:47.040Z,"205 km WNW of Pathein, Myanmar",earthquake,8.41,1.815,0.153,13.0,reviewed,us,us
+2024-10-28T13:08:36.561Z,27.8841,94.0163,10.0,4.7,mb,57.0,98.0,6.699,0.61,us,us7000nnml,2025-01-16T18:44:24.040Z,"36 km NNE of Ziro, India",earthquake,9.78,1.891,0.076,52.0,reviewed,us,us
+2024-10-14T07:02:35.638Z,24.9915,97.7297,10.0,4.4,mb,45.0,59.0,4.066,0.37,us,us6000nyj8,2024-12-26T23:03:56.040Z,"37 km NW of Yingjiang, China",earthquake,8.27,1.895,0.095,32.0,reviewed,us,us
+2024-10-13T02:17:29.478Z,26.7107,92.2692,10.0,4.4,mb,35.0,74.0,6.316,0.62,us,us6000nyde,2025-01-24T02:12:44.006Z,"17 km ESE of Udalguri, India",earthquake,12.45,1.929,0.092,34.0,reviewed,us,us
+2024-10-11T04:40:54.951Z,22.9505,95.9411,10.0,5.0,mb,62.0,89.0,1.979,0.9,us,us6000ny0s,2024-12-23T15:46:43.040Z,"49 km NNE of Shwebo, Myanmar",earthquake,5.88,1.866,0.057,98.0,reviewed,us,us
+2024-10-05T15:41:51.486Z,23.1298,94.309,46.447,4.5,mb,34.0,104.0,1.996,0.64,us,us7000nmxe,2024-12-14T14:51:31.040Z,"57 km S of Mawlaik, Myanmar",earthquake,11.21,6.288,0.119,24.0,reviewed,us,us
+2024-10-03T23:13:47.772Z,22.24,93.7892,56.663,4.4,mb,26.0,137.0,1.469,0.49,us,us7000nmp3,2024-12-14T14:51:20.040Z,"48 km SSE of Hakha, Myanmar",earthquake,14.08,8.838,0.123,19.0,reviewed,us,us
+2024-10-03T01:09:15.175Z,21.9573,94.4502,103.351,4.3,mb,30.0,110.0,0.865,0.84,us,us6000nw74,2024-12-14T14:50:23.040Z,"72 km WSW of Monywa, Myanmar",earthquake,12.91,8.623,0.126,18.0,reviewed,us,us
+2024-10-02T09:12:03.300Z,24.4783,94.5004,111.078,4.4,mb,26.0,94.0,3.28,0.5,us,us7000nmmz,2024-12-14T14:51:15.040Z,"45 km ESE of Wāngjing, India",earthquake,8.68,9.114,0.114,22.0,reviewed,us,us
+2024-09-26T11:00:47.109Z,25.9261,92.5119,10.0,4.3,mb,31.0,146.0,5.191,1.2,us,us7000ngj5,2024-12-06T19:30:16.040Z,"34 km S of Rahā, India",earthquake,13.69,1.914,0.107,25.0,reviewed,us,us
+2024-09-24T10:37:50.107Z,21.124,94.9956,128.814,4.5,mb,109.0,59.0,4.566,0.42,us,us6000nu1v,2024-12-06T19:30:13.040Z,"25 km SSW of Pakokku, Myanmar",earthquake,10.3,6.843,0.056,93.0,reviewed,us,us
+2024-09-09T12:46:46.822Z,22.3738,94.6407,122.947,4.1,mb,21.0,136.0,1.19,0.81,us,us6000ny32,2024-11-21T22:58:53.040Z,"58 km WNW of Monywa, Myanmar",earthquake,14.4,6.794,0.165,11.0,reviewed,us,us
+2024-08-27T21:15:02.136Z,23.5469,100.6812,10.0,4.2,mb,15.0,94.0,4.913,0.76,us,us6000nwal,2024-11-09T21:19:06.040Z,"70 km ESE of Lincang, China",earthquake,13.83,1.886,0.176,9.0,reviewed,us,us
+2024-08-27T20:19:40.853Z,20.7336,94.8703,113.698,4.4,mb,28.0,152.0,0.472,0.97,us,us6000nwaj,2024-11-09T21:19:06.040Z,"19 km SSE of Chauk, Myanmar",earthquake,11.48,5.194,0.169,10.0,reviewed,us,us
+2024-08-19T00:44:51.858Z,25.1089,96.4115,10.0,4.5,mb,31.0,120.0,4.121,0.51,us,us7000nd91,2024-11-02T21:29:07.040Z,"103 km WSW of Myitkyina, Myanmar",earthquake,7.95,1.807,0.124,19.0,reviewed,us,us
+2024-08-18T05:44:36.079Z,23.0704,95.9626,10.0,4.4,mb,26.0,114.0,2.094,0.9,us,us7000nd3p,2024-10-26T15:49:46.040Z,"58 km WNW of Mogok, Myanmar",earthquake,6.0,1.913,0.13,17.0,reviewed,us,us
+2024-08-14T23:06:45.518Z,25.1793,94.6614,10.0,4.2,mb,47.0,101.0,3.719,0.65,us,us7000n729,2024-10-26T15:48:34.040Z,"56 km SSE of Phek, India",earthquake,9.84,1.901,0.096,30.0,reviewed,us,us
+2024-08-14T14:42:58.933Z,27.1518,100.5409,10.0,4.0,mb,23.0,93.0,9.18,0.52,us,us6000nq2j,2024-10-26T15:48:10.040Z,"34 km WSW of Daxing, China",earthquake,11.18,1.931,0.156,11.0,reviewed,us,us
+2024-08-07T13:36:03.663Z,24.1886,94.6559,87.298,4.4,mb,90.0,53.0,3.15,0.53,us,us6000niqj,2024-10-24T17:57:20.040Z,"65 km NNE of Mawlaik, Myanmar",earthquake,8.35,7.099,0.067,65.0,reviewed,us,us
+2024-07-29T01:42:43.390Z,23.6529,94.1644,47.026,4.0,mb,19.0,115.0,2.516,0.38,us,us6000nk4x,2024-10-11T19:39:10.040Z,"24 km W of Mawlaik, Myanmar",earthquake,12.19,9.779,0.183,8.0,reviewed,us,us
+2024-07-28T10:11:03.470Z,21.3196,93.8961,67.884,4.8,mb,29.0,85.0,4.306,1.17,us,us6000njvl,2024-10-08T21:49:15.005Z,"106 km WNW of Chauk, Myanmar",earthquake,11.19,7.692,0.127,19.0,reviewed,us,us
+2024-07-21T20:19:29.777Z,22.5892,94.3355,63.996,4.3,mb,51.0,136.0,1.479,0.58,us,us7000n0q1,2024-09-28T22:42:56.040Z,"74 km E of Hakha, Myanmar",earthquake,9.53,2.974,0.09,35.0,reviewed,us,us
+2024-07-19T06:22:06.169Z,24.2339,97.8487,12.956,4.3,mb,21.0,120.0,4.896,0.69,us,us6000nh53,2024-09-28T22:41:14.040Z,"6 km NE of Zhangfeng, China",earthquake,12.85,5.367,0.16,11.0,reviewed,us,us
+2024-07-05T17:14:36.604Z,24.997,95.2533,130.497,4.4,mb,65.0,63.0,6.187,0.41,us,us7000mxba,2024-09-12T21:52:29.040Z,"106 km SE of Phek, India",earthquake,5.35,6.621,0.073,60.0,reviewed,us,us
+2024-07-04T21:12:27.022Z,24.3726,92.6936,35.0,4.4,mb,60.0,88.0,1.944,0.68,us,us7000mx4s,2024-09-12T21:52:28.040Z,"16 km N of Kolasib, India",earthquake,5.94,1.901,0.087,38.0,reviewed,us,us
+2024-07-03T15:13:23.196Z,19.1085,95.8613,10.0,4.5,mb,19.0,160.0,1.997,0.42,us,us7000myb6,2024-09-12T21:52:31.040Z,"63 km WNW of Taungoo, Myanmar",earthquake,8.69,1.927,0.192,8.0,reviewed,us,us
+2024-06-28T20:56:27.864Z,22.6841,94.0078,31.394,4.4,mb,40.0,94.0,2.184,0.64,us,us7000mx8d,2024-09-04T21:57:43.040Z,"41 km E of Hakha, Myanmar",earthquake,9.19,5.165,0.109,27.0,reviewed,us,us
+2024-06-26T13:39:33.305Z,24.3949,93.8041,57.577,4.6,mb,104.0,66.0,2.619,0.52,us,us6000n89d,2024-09-04T21:57:41.040Z,"11 km SSE of Moirāng, India",earthquake,8.7,6.656,0.059,86.0,reviewed,us,us
+2024-06-26T08:36:14.541Z,27.0157,100.8211,10.0,4.7,mb,49.0,85.0,8.103,0.93,us,us6000n88e,2024-09-04T21:57:41.040Z,"19 km SSW of Xinyingpan, China",earthquake,10.84,1.881,0.091,37.0,reviewed,us,us
+2024-06-26T08:19:08.140Z,26.8514,100.8523,10.0,4.8,mb,62.0,56.0,7.958,0.71,us,us6000n88d,2024-09-04T21:57:41.040Z,"6 km W of Zhanhe, China",earthquake,8.42,1.848,0.064,76.0,reviewed,us,us
+2024-06-09T04:35:09.641Z,27.4645,93.088,39.251,4.3,mb,29.0,126.0,2.819,1.15,us,us7000mrac,2024-08-16T21:59:17.040Z,"66 km NW of Itānagar, India",earthquake,10.55,8.674,0.137,16.0,reviewed,us,us
+2024-06-06T10:28:16.661Z,23.9042,94.1522,49.578,4.1,mb,19.0,105.0,2.611,0.8,us,us7000ms6q,2024-08-16T21:59:21.040Z,"38 km NW of Mawlaik, Myanmar",earthquake,7.87,8.549,0.213,6.0,reviewed,us,us
+2024-06-03T13:21:04.048Z,17.4183,94.6671,21.731,4.5,mb,28.0,152.0,4.199,0.59,us,us7000mrim,2024-08-16T21:59:23.040Z,"71 km N of Pathein, Myanmar",earthquake,8.99,5.811,0.131,18.0,reviewed,us,us
+2024-06-02T08:44:59.515Z,22.8369,94.5714,106.754,4.8,mb,82.0,49.0,1.654,0.65,us,us7000mplk,2024-08-06T20:32:50.040Z,"90 km S of Mawlaik, Myanmar",earthquake,8.59,5.747,0.05,124.0,reviewed,us,us
+2024-05-29T13:13:27.000Z,23.527,94.6623,97.552,5.4,mww,180.0,26.0,2.322,0.61,us,us7000mnrr,2024-08-06T20:32:47.040Z,"29 km ESE of Mawlaik, Myanmar",earthquake,7.5,5.247,0.057,30.0,reviewed,us,us
+2024-05-07T01:40:29.325Z,24.3778,94.8016,113.981,4.4,mb,45.0,117.0,3.357,0.98,us,us6000mwva,2024-07-20T22:20:01.040Z,"78 km ESE of Wāngjing, India",earthquake,9.73,7.804,0.088,37.0,reviewed,us,us
+2024-05-01T15:21:40.576Z,26.4249,96.4223,103.088,4.3,mb,43.0,73.0,5.375,1.04,us,us6000mx9p,2024-07-15T03:58:36.040Z,"45 km WNW of Sarupathar, India",earthquake,9.08,8.189,0.109,24.0,reviewed,us,us
+2024-04-29T19:08:28.046Z,17.3772,94.2304,10.0,4.8,mb,73.0,99.0,4.613,0.81,us,us6000mv0v,2024-07-15T03:58:53.040Z,"85 km NW of Pathein, Myanmar",earthquake,9.13,1.872,0.062,80.0,reviewed,us,us
+2024-04-28T20:45:38.172Z,25.5222,96.6471,10.0,4.6,mb,71.0,73.0,6.428,0.59,us,us6000muqt,2024-07-02T22:12:27.040Z,"76 km WNW of Myitkyina, Myanmar",earthquake,7.42,1.735,0.049,126.0,reviewed,us,us
+2024-04-24T05:05:18.618Z,25.2199,99.8131,10.0,4.4,mb,35.0,94.0,6.778,0.63,us,us6000mteb,2024-07-02T22:12:37.040Z,"39 km SE of Bonan, China",earthquake,7.58,1.904,0.107,25.0,reviewed,us,us
+2024-04-20T16:46:37.024Z,21.9812,92.651,44.892,4.1,mb,28.0,160.0,1.162,0.58,us,us6000mu0v,2024-06-25T21:02:32.040Z,"50 km ESE of Bāndarban, Bangladesh",earthquake,8.89,5.798,0.131,16.0,reviewed,us,us
+2024-04-13T19:27:02.865Z,21.4027,95.0167,120.556,4.0,mb,22.0,87.0,0.217,0.49,us,us7000md85,2024-06-17T02:15:27.040Z,"10 km NW of Pakokku, Myanmar",earthquake,11.14,4.931,0.184,8.0,reviewed,us,us
+2024-04-13T09:54:43.847Z,17.3366,95.1228,37.199,4.3,mb,29.0,177.0,3.804,0.65,us,us7000md7n,2024-06-17T02:15:22.040Z,"49 km SW of Hinthada, Myanmar",earthquake,9.91,8.137,0.16,11.0,reviewed,us,us
+2024-04-05T12:45:38.655Z,26.4924,96.9139,69.136,5.7,mb,157.0,22.0,5.571,0.71,us,us7000ma59,2024-06-12T21:51:54.040Z,"33 km NNE of Sarupathar, India",earthquake,8.38,6.269,0.031,379.0,reviewed,us,us
+2024-03-13T08:20:56.953Z,23.8285,93.9123,82.647,4.2,mb,27.0,81.0,2.381,0.79,us,us6000mjsp,2024-05-18T21:23:54.040Z,"54 km WNW of Mawlaik, Myanmar",earthquake,7.45,8.127,0.186,10.0,reviewed,us,us
+2024-03-07T22:58:24.456Z,23.2072,94.4293,101.657,4.2,mb,53.0,111.0,2.042,0.63,us,us7000m413,2024-05-15T17:35:03.040Z,"48 km S of Mawlaik, Myanmar",earthquake,5.89,6.015,0.082,41.0,reviewed,us,us
+2024-03-07T15:47:41.746Z,16.4052,94.6639,33.759,4.6,mb,39.0,99.0,4.741,0.59,us,us7000m3w7,2024-05-15T17:35:03.040Z,"42 km S of Pathein, Myanmar",earthquake,6.32,5.454,0.096,32.0,reviewed,us,us
+2024-02-24T00:23:57.760Z,21.2007,99.3878,15.026,4.2,mb,22.0,82.0,0.206,0.65,us,us6000mftz,2024-05-02T15:50:11.040Z,"73 km SW of Kēng Tung, Myanmar",earthquake,4.83,5.057,0.187,8.0,reviewed,us,us
+2024-02-23T22:36:08.342Z,21.5461,94.0885,66.528,4.4,mb,66.0,61.0,0.843,0.51,us,us7000m189,2024-05-02T15:50:13.040Z,"104 km NW of Chauk, Myanmar",earthquake,6.86,6.589,0.071,58.0,reviewed,us,us
+2024-02-21T07:36:04.824Z,22.5174,93.9868,71.012,4.9,mb,71.0,52.0,1.565,0.72,us,us7000m0ia,2024-05-02T15:50:12.040Z,"41 km ESE of Hakha, Myanmar",earthquake,6.84,6.078,0.049,130.0,reviewed,us,us
+2024-02-18T00:24:48.995Z,23.7744,93.8956,71.815,4.1,mb,32.0,83.0,2.343,0.84,us,us7000m0ue,2024-04-24T14:42:07.040Z,"53 km WNW of Mawlaik, Myanmar",earthquake,8.91,8.294,0.123,18.0,reviewed,us,us
+2024-02-17T03:55:23.179Z,22.9227,93.7803,72.977,4.6,mb,63.0,70.0,1.988,0.73,us,us7000lzt8,2024-04-24T14:42:04.040Z,"10 km E of Falam, Myanmar",earthquake,7.02,7.388,0.071,59.0,reviewed,us,us
+2024-02-11T20:48:49.942Z,21.5206,94.0805,72.436,4.9,mb,63.0,65.0,0.84,0.77,us,us7000lyi1,2024-04-20T19:35:44.040Z,"102 km NW of Chauk, Myanmar",earthquake,8.61,6.612,0.047,142.0,reviewed,us,us
+2024-02-09T06:51:55.718Z,24.6542,94.86,105.99,4.0,mb,27.0,112.0,3.433,0.84,us,us7000lz6j,2024-04-20T19:34:29.040Z,"80 km E of Wāngjing, India",earthquake,10.57,9.034,0.116,20.0,reviewed,us,us
+2024-02-05T04:15:44.050Z,22.5535,94.837,10.164,4.2,mb,11.0,83.0,1.343,0.74,us,us7000ly0u,2024-04-20T19:32:51.040Z,"58 km NNW of Monywa, Myanmar",earthquake,9.35,5.376,0.215,6.0,reviewed,us,us
+2024-02-02T19:27:58.362Z,24.3685,94.6019,99.291,4.5,mb,113.0,45.0,3.161,0.55,us,us7000lwi2,2024-04-13T19:35:19.040Z,"59 km ESE of Wāngjing, India",earthquake,7.94,5.116,0.054,107.0,reviewed,us,us
+2024-01-27T19:32:29.747Z,25.1373,96.5321,15.1,4.3,mb,22.0,86.0,4.186,0.47,us,us7000lvut,2024-03-30T22:35:20.040Z,"91 km WSW of Myitkyina, Myanmar",earthquake,9.58,5.158,0.16,11.0,reviewed,us,us
+2024-01-25T21:58:08.234Z,22.1702,93.1736,41.343,4.4,mb,57.0,55.0,1.504,0.7,us,us7000ltu7,2024-03-30T22:33:37.040Z,"40 km SSE of Saiha, India",earthquake,6.07,8.141,0.091,35.0,reviewed,us,us
+2024-01-15T13:42:34.566Z,25.6032,93.2892,10.0,4.1,mb,22.0,96.0,3.278,0.65,us,us7000lsyb,2024-03-29T17:37:55.040Z,"20 km SE of Lumding Railway Colony, India",earthquake,8.33,1.727,0.151,13.0,reviewed,us,us
+2024-01-14T13:21:40.369Z,24.2812,94.5378,92.954,4.0,mb,31.0,112.0,3.081,0.93,us,us6000m3lx,2024-03-16T19:00:39.040Z,"58 km SE of Wāngjing, India",earthquake,11.01,7.2,0.111,22.0,reviewed,us,us
+2024-01-12T15:24:28.521Z,20.745,93.6907,49.464,4.5,mb,35.0,157.0,1.235,0.98,us,us6000m3a4,2024-03-16T19:00:29.040Z,"105 km NE of Sittwe, Myanmar",earthquake,6.42,7.656,0.099,30.0,reviewed,us,us
+2024-01-12T01:53:19.798Z,22.8069,94.0111,70.857,4.4,mb,52.0,91.0,1.801,0.81,us,us6000m4nv,2024-03-16T19:01:03.040Z,"36 km ESE of Falam, Myanmar",earthquake,5.11,6.376,0.094,34.0,reviewed,us,us
+2024-01-08T19:55:59.921Z,21.1189,95.1787,10.0,4.3,mb,48.0,150.0,4.119,0.58,us,us6000m2j7,2024-03-16T19:00:03.040Z,"25 km SSE of Pakokku, Myanmar",earthquake,8.84,1.912,0.094,32.0,reviewed,us,us
+2024-01-01T21:45:52.330Z,26.0489,95.4358,82.85,4.5,mb,77.0,90.0,4.82,0.46,us,us6000m11n,2024-03-09T21:38:33.040Z,"65 km ESE of Tuensang, India",earthquake,8.56,7.318,0.073,55.0,reviewed,us,us
+2025-03-30T08:37:58.296Z,22.5586,95.9674,10.0,4.3,mb,28.0,162.0,4.714,0.76,us,us7000pnsw,2025-03-30T09:27:21.040Z,"27 km E of Shwebo, Burma (Myanmar)",earthquake,12.5,1.937,0.122,19.0,reviewed,us,us
+2025-03-30T07:08:01.199Z,22.1993,95.9393,10.0,5.1,mb,65.0,69.0,4.578,0.64,us,us7000pnsb,2025-03-31T01:52:31.274Z,"28 km NNW of Mandalay, Burma (Myanmar)",earthquake,9.36,1.883,0.066,74.0,reviewed,us,us
+2025-03-29T23:27:35.210Z,22.5473,95.8629,10.0,4.2,mb,25.0,154.0,4.989,0.78,us,us7000pnqp,2025-03-29T23:45:49.040Z,"17 km E of Shwebo, Burma (Myanmar)",earthquake,9.04,1.918,0.125,18.0,reviewed,us,us
+2025-03-29T09:20:48.183Z,19.6154,96.0102,10.0,5.1,mb,76.0,66.0,3.004,0.72,us,us7000pnkj,2025-03-29T18:09:15.806Z,"19 km SW of Nay Pyi Taw, Burma (Myanmar)",earthquake,8.4,1.856,0.048,142.0,reviewed,us,us
+2025-03-28T16:46:21.048Z,20.2248,96.137,10.0,4.5,mb,25.0,154.0,3.179,0.39,us,us7000pne5,2025-03-28T17:27:49.674Z,"22 km S of Yamethin, Burma (Myanmar)",earthquake,11.11,1.924,0.144,18.0,reviewed,us,us
+2025-03-28T14:49:19.423Z,21.9984,95.9659,10.0,4.2,mb,21.0,158.0,4.475,0.82,us,us7000pnq3,2025-03-29T21:35:06.040Z,"12 km WNW of Mandalay, Burma (Myanmar)",earthquake,14.29,1.938,0.159,13.0,reviewed,us,us
+2025-03-28T12:21:56.553Z,22.0108,95.9699,10.0,4.6,mb,73.0,64.0,4.477,0.63,us,us7000pnc5,2025-03-29T16:09:39.040Z,"12 km WNW of Mandalay, Burma (Myanmar)",earthquake,7.8,1.791,0.065,71.0,reviewed,us,us
+2025-03-28T11:16:50.005Z,22.1908,95.7184,10.0,4.5,mb,42.0,162.0,4.761,0.66,us,us7000pnbt,2025-03-28T14:43:30.305Z,Burma,earthquake,7.81,1.866,0.097,31.0,reviewed,us,us
+2025-03-28T09:55:36.105Z,19.7619,96.1921,10.0,4.5,mb,26.0,193.0,2.906,0.63,us,us7000pnfz,2025-03-29T07:00:52.045Z,"3 km NNW of Pyinmana, Burma (Myanmar)",earthquake,11.12,1.953,0.128,18.0,reviewed,us,us
+2025-03-28T09:26:46.362Z,21.6385,97.7004,10.0,4.1,mb,8.0,160.0,2.865,0.96,us,us7000pnfs,2025-03-28T19:10:51.040Z,"116 km NE of Taunggyi, Burma (Myanmar)",earthquake,10.9,1.98,0.302,3.0,reviewed,us,us
+2025-03-28T09:18:28.345Z,23.5224,95.3699,10.0,4.4,mb,43.0,134.0,5.686,0.96,us,us7000pnbh,2025-03-28T18:54:34.040Z,"99 km E of Mawlaik, Burma (Myanmar)",earthquake,8.72,1.9,0.098,30.0,reviewed,us,us
+2025-03-28T07:57:00.754Z,22.5423,95.8338,10.0,4.5,mb,30.0,162.0,4.816,0.99,us,us7000pnbe,2025-03-28T10:13:21.402Z,Burma,earthquake,15.75,1.962,0.116,22.0,reviewed,us,us
+2025-03-28T07:42:36.806Z,20.0222,96.8632,10.0,4.3,mb,8.0,195.0,2.507,1.34,us,us7000pnf7,2025-03-28T18:02:24.040Z,"52 km NW of Loikaw, Burma (Myanmar)",earthquake,12.17,1.962,0.307,3.0,reviewed,us,us
+2025-03-28T07:36:58.784Z,22.7463,95.8757,10.0,4.6,mb,81.0,68.0,4.88,0.71,us,us7000pnba,2025-03-28T10:28:27.640Z,Burma,earthquake,10.61,1.899,0.063,75.0,reviewed,us,us
+2025-03-28T07:33:37.725Z,22.6466,95.7747,10.0,4.4,mb,40.0,79.0,4.913,0.84,us,us7000pnf1,2025-03-28T17:44:42.040Z,"11 km NE of Shwebo, Burma (Myanmar)",earthquake,11.87,1.926,0.088,37.0,reviewed,us,us
+2025-03-28T07:27:47.947Z,22.7236,95.8606,10.0,4.6,mb,42.0,153.0,4.881,0.74,us,us7000pnb8,2025-03-28T17:20:20.040Z,"23 km NE of Shwebo, Burma (Myanmar)",earthquake,8.59,1.827,0.101,29.0,reviewed,us,us
+2025-03-28T06:45:45.503Z,19.3005,96.2925,10.0,4.9,mb,50.0,101.0,2.646,0.91,us,us7000pnb6,2025-03-28T16:17:09.695Z,Burma (Myanmar),earthquake,10.54,1.788,0.098,41.0,reviewed,us,us
+2025-03-28T06:42:24.866Z,21.898,95.8365,10.0,4.9,mb,89.0,80.0,4.497,0.67,us,us7000pncv,2025-03-28T16:12:10.040Z,"14 km W of Sagaing, Burma (Myanmar)",earthquake,9.74,1.762,0.071,65.0,reviewed,us,us
+2025-03-28T06:39:15.041Z,19.9711,95.8212,10.0,4.8,mb,33.0,93.0,3.312,0.86,us,us7000pncy,2025-03-28T16:41:44.040Z,"29 km E of Taungdwingyi, Burma (Myanmar)",earthquake,11.42,1.882,0.116,25.0,reviewed,us,us
+2025-03-28T06:32:04.726Z,21.7073,95.9692,10.0,6.7,mww,106.0,41.0,4.273,0.84,us,us7000pn9z,2025-03-30T16:12:29.420Z,Burma (Myanmar),earthquake,7.57,1.833,0.089,12.0,reviewed,us,us
+2025-03-28T06:20:52.684Z,21.9963,95.9258,10.0,7.7,mww,245.0,24.0,3.481,0.9,us,us7000pn9s,2025-03-31T06:07:23.146Z,"2025 Mandalay, Burma (Myanmar) Earthquake",earthquake,7.47,1.673,0.028,121.0,reviewed,us,us
+2025-03-18T07:48:59.670Z,24.3636,94.8449,107.717,5.1,mww,74.0,53.0,3.144,0.61,us,us6000pzix,2025-03-18T11:32:08.451Z,"83 km ESE of Wāngjing, India",earthquake,9.02,6.868,0.093,11.0,reviewed,us,us
+2025-03-17T19:37:18.228Z,24.4394,93.449,49.533,4.2,mb,51.0,139.0,3.492,0.55,us,us6000pzed,2025-03-29T14:31:47.040Z,"25 km WNW of Churāchāndpur, India",earthquake,8.3,4.689,0.087,37.0,reviewed,us,us
+2025-03-14T00:31:26.002Z,27.145,92.2691,10.0,4.2,mb,42.0,143.0,2.74,0.95,us,us6000pyqh,2025-03-24T22:19:10.040Z,"20 km SW of Bomdila, India",earthquake,7.53,1.917,0.085,39.0,reviewed,us,us
+2025-03-09T07:55:14.441Z,24.9377,95.3301,133.124,4.3,mb,40.0,138.0,3.734,0.91,us,us6000pxru,2025-03-19T08:59:41.040Z,"116 km SE of Phek, India",earthquake,11.06,8.143,0.095,31.0,reviewed,us,us
+2025-03-05T06:50:41.666Z,24.5572,94.621,78.882,4.3,mb,51.0,101.0,3.347,0.55,us,us6000pwzr,2025-03-05T08:08:49.040Z,"56 km E of Wāngjing, India",earthquake,10.53,7.913,0.09,35.0,reviewed,us,us
+2025-03-05T05:36:35.811Z,24.5929,94.6843,88.558,5.4,mww,126.0,43.0,3.378,0.83,us,us6000pwz6,2025-03-06T06:03:37.881Z,"62 km E of Wāngjing, India",earthquake,3.76,5.54,0.071,19.0,reviewed,us,us
+2025-03-04T22:24:05.283Z,16.7215,95.7135,10.0,4.7,mb,60.0,99.0,3.531,0.73,us,us6000pwwz,2025-03-25T23:20:42.095Z,"6 km E of Maubin, Myanmar",earthquake,8.81,1.87,0.079,49.0,reviewed,us,us
+2025-03-04T22:06:43.644Z,16.8995,95.6001,10.0,5.1,mww,87.0,80.0,3.543,0.57,us,us6000pwx1,2025-03-25T23:17:53.416Z,"16 km SSW of Nyaungdon, Myanmar",earthquake,7.75,1.808,0.083,14.0,reviewed,us,us
+2025-03-04T22:05:39.516Z,16.7001,95.5884,10.0,4.1,mb,18.0,176.0,3.646,0.28,us,us6000pylr,2025-03-25T22:51:22.040Z,"7 km WSW of Maubin, Myanmar",earthquake,7.55,1.97,0.197,7.0,reviewed,us,us
+2025-03-03T04:45:58.185Z,24.9209,95.5418,144.457,4.1,mb,42.0,113.0,3.742,0.58,us,us6000pyem,2025-03-27T02:29:33.040Z,"133 km SE of Phek, India",earthquake,10.51,8.516,0.097,29.0,reviewed,us,us
+2025-03-03T03:33:03.313Z,16.3701,95.6877,10.0,4.5,mb,42.0,143.0,3.737,0.6,us,us6000pwjj,2025-03-18T02:29:58.124Z,"9 km SSW of Kyaiklat, Myanmar",earthquake,5.82,1.91,0.106,26.0,reviewed,us,us
+2025-03-01T08:57:01.257Z,20.423,95.1036,121.871,4.2,mb,31.0,172.0,0.798,0.49,us,us6000pw91,2025-03-16T11:10:02.040Z,"24 km E of Yenangyaung, Myanmar",earthquake,8.21,6.498,0.128,17.0,reviewed,us,us
+2025-02-28T10:05:45.867Z,27.4538,92.6469,49.904,4.4,mb,60.0,95.0,2.609,0.54,us,us6000pw15,2025-03-27T08:34:26.293Z,"30 km NE of Bomdila, India",earthquake,7.99,6.961,0.075,52.0,reviewed,us,us
+2025-02-26T20:55:36.821Z,26.3002,92.3408,10.0,5.3,mb,117.0,71.0,3.556,0.66,us,us6000pvpc,2025-03-12T17:50:25.303Z,"5 km N of Morigaon, India",earthquake,9.24,1.771,0.034,284.0,reviewed,us,us
+2025-02-23T20:25:39.368Z,21.9743,94.3794,95.49,4.3,mb,48.0,99.0,0.914,0.53,us,us7000pfnn,2025-03-07T15:01:24.040Z,"79 km W of Monywa, Myanmar",earthquake,10.49,7.711,0.094,32.0,reviewed,us,us
+2025-02-22T10:33:30.586Z,21.6058,93.8312,56.439,5.2,mb,89.0,83.0,1.087,1.09,us,us7000pffe,2025-03-24T19:15:20.040Z,"117 km S of Hakha, Myanmar",earthquake,6.83,6.733,0.038,228.0,reviewed,us,us
+2025-02-01T12:46:34.402Z,23.757,93.6375,62.526,4.1,mb,19.0,167.0,2.801,0.97,us,us7000pc5t,2025-02-22T07:38:33.040Z,"63 km S of Churāchāndpur, India",earthquake,8.11,10.944,0.184,8.0,reviewed,us,us
+2025-02-01T12:41:00.066Z,23.9786,93.7854,58.87,4.5,mb,27.0,157.0,2.951,0.65,us,us7000pc5s,2025-02-22T07:39:55.040Z,"41 km SSE of Churāchāndpur, India",earthquake,13.11,9.315,0.131,17.0,reviewed,us,us
+2025-01-25T07:11:26.402Z,20.4112,94.9808,55.579,4.4,mb,48.0,98.0,0.793,0.61,us,us6000pm9m,2025-03-01T07:05:30.040Z,"12 km ESE of Yenangyaung, Myanmar",earthquake,8.2,7.024,0.085,40.0,reviewed,us,us
+2025-01-23T19:23:36.273Z,24.6223,95.093,117.542,5.0,mb,127.0,25.0,3.404,0.59,us,us6000plwf,2025-01-31T21:02:45.399Z,"104 km E of Wāngjing, India",earthquake,7.82,6.114,0.036,243.0,reviewed,us,us
+2025-01-22T15:27:46.576Z,24.6742,93.1241,35.0,4.4,mb,57.0,85.0,3.827,0.51,us,us6000pll1,2025-03-06T01:40:12.040Z,"17 km SE of Lakhipur, India",earthquake,10.18,1.933,0.083,42.0,reviewed,us,us
+2025-01-18T20:01:47.716Z,24.4445,95.1109,128.424,4.5,mb,59.0,52.0,3.229,0.68,us,us6000pkzi,2025-03-29T22:12:43.040Z,"107 km E of Wāngjing, India",earthquake,9.53,7.598,0.084,42.0,reviewed,us,us
+2025-01-06T07:34:21.777Z,26.7009,96.9229,10.0,4.5,mb,100.0,40.0,5.77,0.56,us,us6000pkn9,2025-03-17T21:34:53.040Z,"55 km NNE of Sarupathar, India",earthquake,8.43,1.863,0.06,81.0,reviewed,us,us
+2025-01-03T04:32:38.138Z,24.9577,95.5118,154.635,5.0,mb,84.0,63.0,3.775,0.69,us,us6000phdf,2025-03-17T21:34:23.040Z,"128 km SE of Phek, India",earthquake,7.39,6.46,0.069,68.0,reviewed,us,us
